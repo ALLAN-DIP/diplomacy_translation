@@ -1,0 +1,18 @@
+import setuptools
+
+setuptools.setup(
+    name="davinci",
+    version="0.0.1",
+    author="Feng Gu",
+    author_email="contact@fenggu.me",
+    description="OpenAI API wrapper for DAIDE/English translation",
+    long_description_content_type="text/markdown",
+    url="NO",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+    ],
+    package_dir={"": "."},
+    packages=setuptools.find_packages(where="."),
+    python_requires=">=3.7"
+)
