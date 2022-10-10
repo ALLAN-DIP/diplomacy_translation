@@ -1,15 +1,15 @@
-# DaVinci
+# diplomacy_translation
 
 ## Installation
 ```
-git clone git@github.com:SiddarGu/DaVinci.git
+git clone git@github.com:SiddarGu/diplomacy_translation.git
 cd DaVinci
 pip install -e .
 ```
 
 ## Usage
 ```python
-from davinci.davinci import toDAIDE, toEnglish
+from translation.translation import toDAIDE, toEnglish
 
-translation = toDAIDE("Can your army in Warsaw support my army in Ukraine?")
+daide_translation = toDAIDE("Can your army in Warsaw support my army in Ukraine?")
 ```

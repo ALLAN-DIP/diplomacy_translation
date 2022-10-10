@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="davinci",
+    name="diplomacy_translation",
     version="0.0.1",
     author="Feng Gu",
     author_email="contact@fenggu.me",
