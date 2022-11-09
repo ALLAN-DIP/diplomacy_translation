@@ -30,7 +30,7 @@ text = "Here are some words from a language called DAIDE, as well as their engli
 # [Italy to Russia] Hi Russia, can your fleet in Warsaw support my army in Ukraine?
 
 
-def toDAIDE(eng_msg: str) -> str:
+def toDAIDE(eng_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0) -> str:
     command = "Now translate the following from English to DAIDE: " + eng_msg
 
     response = openai.Completion.create(
@@ -45,7 +45,7 @@ def toDAIDE(eng_msg: str) -> str:
     return response.choices[0].text.strip()
 
 
-def toEnglish(daide_msg: str) -> str:
+def toEnglish(daide_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0) -> str:
     command = "Now translate the following from DAIDE to English: " + daide_msg
 
     response = openai.Completion.create(
