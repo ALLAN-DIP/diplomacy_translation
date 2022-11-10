@@ -27,9 +27,6 @@ text = "Here are some words from a language called DAIDE, as well as their engli
         [Germany to Austria] Can your fleet on the Baltic Sea support my army in Sweden?: PRP ((AUS FLT BAL) SUP (GER AMY SWE))\n \
         [France to Italy] Can your fleet in the Adriatic Sea convoy my army in Apulia to Trieste?: PRP ((ITL FLT ADR) CVY (FRA AMY APU) CTO TRI)\n"
 
-# [Italy to Russia] Hi Russia, can your fleet in Warsaw support my army in Ukraine?
-
-
 def toDAIDE(eng_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0) -> str:
     command = "Now translate the following from English to DAIDE: " + eng_msg
 

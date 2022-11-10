@@ -7,7 +7,7 @@ setuptools.setup(
     author_email="contact@fenggu.me",
     description="OpenAI API wrapper for DAIDE/English translation",
     long_description_content_type="text/markdown",
-    url="NO",
+    url="https://github.com/ALLAN-DIP/diplomacy_translation",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
