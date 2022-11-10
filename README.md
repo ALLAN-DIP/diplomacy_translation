@@ -1,4 +1,7 @@
 # diplomacy_translation
+To get the app working, you’ll need an API key. You can get one by [signing up](https://beta.openai.com/signup) for an account.
+Note that OpenAI has a $18 free trial usage limit.
+
 If you need to see how it works and play with it, you can check out the [demo](https://beta.openai.com/playground/p/sFjh0ESaFBAoftZlN0i00lHu?model=text-davinci-002). The following content is a Python API setup to use the model.
 ## Installation
 ```
@@ -8,13 +11,10 @@ pip install -r requirements.txt
 pip install -e .
 ```
 ## Additional Setup
-To get the app working, you’ll need an API key. You can get one by [signing up](https://beta.openai.com/signup) for an account.
-Next, create a `.env` file in the root directory of the project and add your API key to it:
+Create a `.env` file in the root directory of the project and add your API key to it:
 ```bash
 OPENAI_API_KEY=YOUR_API_KEY
 ```
-Note that OpenAI has a $18 free trial usage limit.
-
 
 ## Functions
 ```python
