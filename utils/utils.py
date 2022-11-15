@@ -25,6 +25,23 @@ Problems of the few-shot model encountered when cleaning the data:
     AMR or the order)
 '''
 
+# remove punctuations and use lowercase
+def tokenize(sentence: str) -> List[str]:
+    def trim_all(token: str) -> str:
+        while token[0] == '"' or token[0] == '(' or token[0] == ' ':
+            token = token[1:]
+        while token[-1] == '"' or token[-1] == '.' or token[-1] == ',' or token[-1] == ')' or token[-1] == ' ':
+            token = token[:-1]
+        return token
+
+    words = sentence.split(' ')
+    tokens = []
+    for word in words:
+        lowercase = word.lower()
+        trimmed = trim_all(lowercase)
+        tokens.append(trimmed)
+    return tokens
+
 # remove parentheses
 def trim(token: str) -> str:
     while token.startswith('('):
