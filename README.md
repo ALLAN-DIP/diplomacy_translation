@@ -42,6 +42,11 @@ See more info about these parameters [here](https://beta.openai.com/docs/api-ref
 daide_translation = toDAIDE("Can your army in Warsaw support my army in Ukraine?", temperature=0.5)
 ```
 
+### Current limitations
+- The dataset is too small. One annotation file from [here](https://github.com/isi-nlp/DiplomacyAMR/tree/main/annotations) has < 600 full DAIDEs. There is only four other files. In addition, most full DAIDEs annotated **does not** pass the current [daidepp parser](https://github.com/SHADE-AI/daidepp).
+- The prompt is not always working as intended. Sometimes the model does not generate translations at all. Sometimes the model simply repeats (part of) the prompt. Sometimes the model generates a translation that is not related to the prompt at all. The details of the problems generating DAIDE from English can be found in comments in [utils.py](utils/utils.py).
+- Third, using data from human games for generating DAIDE -> English translation is not ideal. The English reference does not always correspond to the DAIDE order. Discrepancy between translation and the reference is expected.
+
 ### Future work
 - [ ] Prompt refinement
 - [ ] Evaluation of the model
