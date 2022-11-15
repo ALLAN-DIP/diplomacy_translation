@@ -41,3 +41,8 @@ See more info about these parameters [here](https://beta.openai.com/docs/api-ref
 ```python
 daide_translation = toDAIDE("Can your army in Warsaw support my army in Ukraine?", temperature=0.5)
 ```
+
+### Future work
+- [ ] Prompt refinement
+- [ ] Evaluation of the model
+- [ ] Compare traditional NLP models with GPT-3
