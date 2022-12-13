@@ -1,7 +1,7 @@
 from daidepp import create_daide_grammar, daide_visitor
 
-grammar = create_daide_grammar(level=130)
-message = 'PRP (XDO ((TUR AMY SER) MTO TRI))'
+grammar = create_daide_grammar(level=130, string_type='all')
+message = 'PRP (DMZ (FRA ITA) (PIE LYO WES TYS))'
 parse_tree = grammar.parse(message)
 output = daide_visitor.visit(parse_tree)
 print(output)
@@ -28,4 +28,9 @@ not considered as a message in daide++
 
 PRP ((TUR AMY SER) MTO TRI)
 not an arrangement: PRP (XDO ((TUR AMY SER) MTO TRI))
+
+ADDITIONAL PROBLEMS:
+USE SCD on non supply centers
+daide++ cannot handle single country as arguments of ALY/VSS
+daide++ uses GOB while some players use BOT to represent Gulf of Bothnia
 '''

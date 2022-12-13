@@ -2308,6 +2308,7 @@ PRP (DMZ (TUR ITA) (GRE BUL) (ROM SER))
 
 That sounds good. If we stick together we can get through this early game intact. What's your read on Russia and Italy? Have you heard from them?
 YES (ALY (TUR AUS))
+Correct: YES (PRP (ALY (TUR AUS) VSS (XYZ))) disregard
 PRP (ALY (TUR ITA)) PRP (DMZ (FRA ITA) (PIE LYO WES TYS)) PRP ((FRA FLT MAR) BLD)
 
 Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?

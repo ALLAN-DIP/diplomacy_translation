@@ -1,0 +1,1045 @@
+Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?
+PRP (DMZ (FRA ITA) (PIE LYO WES TYS))
+
+Sure, a strong England is always a threat to me, so I'd be happy to help annoy them in the North Sea/Scandinavia
+YES (ALY (GER FRA) VSS (ENG))
+daide++ error
+
+But I see you have other plans
+NOT (ALY (GER) VSS (ENG))
+daide++ error
+
+As am I! What direction are you inclined to go? Are you willing to DMZ Galicia?
+PRP (DMZ (AUS RUS) (GAL))
+
+A/T move fast and break things?  I’m fleets you’re armies, kill Russia quick, let Italy fart around a few years then carve them up too? Whaddya say?
+PRP (ALY (TUR AUS) VSS (RUS ITA))
+
+And we work to split Italy between the two of us, right?  Tri/Rom for you, Nap/Tun for me?
+PRP (SCD (AUS TRI ROM) (TUR NAP TUN))
+
+More than expects: they’re already explicitly asking for Ser-Tri to cut that support
+PRP (XDO ((TUR AMY SER) MTO TRI))
+
+Austria asked if I am willing to DMZ Gal
+PRP (DMZ (RUS AUS) (GAL))
+
+I submitted orders to disband my southern fleet
+(RUS FLT BLA) REM
+
+Cool. I’m building F Smy and A Con.  Will get you detailed plans after we see the builds.  Good luck fixing democracy ;p
+AND (XDO ((TUR FLT SMY) BLD)) (XDO ((TUR AMY CON) BLD))
+
+Moved to Lvn to be safe
+(RUS AMY WAR) MTO LVN
+
+A Lvn - Pru A Sev - Ukr F Stp/nc- BAR  F Swe H A War - Gal
+AND (XDO ((RUS AMY LVN) MTO PRU)) (XDO ((RUS AMY SEV) MTO UKR)) (XDO ((RUS FLT (STP NCS)) MTO BAR)) (XDO ((RUS FLT SWE) HLD)) (XDO ((RUS AMY WAR) MTO GAL))
+
+F BAR H A Gal - Vie A Pru - Ber F Swe - Den A Ukr - War
+AND (XDO ((RUS FLT BAR) HLD)) (XDO ((RUS AMY GAL) MTO VIE)) (XDO ((RUS AMY PRU) MTO BER)) (XDO ((RUS FLT SWE) MTO DEN)) (XDO ((RUS AMY UKR) MTO WAR))
+
+I’m thinking F Stp sc, A War, A Mos
+AND (XDO ((RUS FLT (STP SCS)) BLD)) (XDO ((RUS AMY WAR) BLD)) (XDO((RUS AMY MOS) BLD))
+
+Here’s my current orders:      A Ber - Kie A Gal - Boh A Mos - War F Nwy S Swe F Stp/sc - BOT F Swe S Nwy A Vie - Tyr A War - Sil
+AND (XDO ((RUS AMY BER) MTO KIE)) (XDO ((RUS AMY GAL) MTO BOH)) (XDO ((RUS AMY MOS) MTO WAR)) (XDO ((RUS FLT NWY) SUP (RUS FLT SWE))) (XDO ((RUS FLT (STP SCS)) MTO GOB)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) MTO TYR)) (XDO ((RUS AMY WAR) MTO SIL))
+
+A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy H A Sil - Mun F Swe S Nwy A Vie H A War - Sil
+AND (XDO ((RUS AMY BER) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) HLD)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) HLD)) (XDO ((RUS AMY WAR) MTO SIL))
+
+I think you need to stop the Nwg-Bar move, by doing Nwy-Bar.  At the same time, we need to just give you Tri so you can build another northern fleet.  We can give it back to me next year and if necessary you just disband a rearguard army to make up for it if you’re not picking up another build somewhere else.
+AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI))
+
+A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy - BAR A Sil - Mun F Swe - Nwy A Vie - Tri A War - Pru
+AND (XDO ((RUS AMY BER) SUP (RUS FLT SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) MTO BAR)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) MTO NWY)) (XDO ((RUS AMY VIE) MTO TRI)) (XDO ((RUS AMY WAR) MTO PRU))
+
+What if I just move A Tri - Vie?
+PRP (XDO ((RUS AMY TRI) MTO VIE))
+
+France just reached out about working together against England
+PRP (ALY (FRA RUS) VSS (ENG))
+daide++ error
+
+I think it’s an easy yes from me lol. Put England to bed then we can overrun France in no time. And at this point if I’d rather it end in a 3 way victory than a 5 way
+(YES (ALY (RUS TUR FRA) VSS (ENG))) (ALY (RUS TUR) VSS (FRA))
+daide++ error
+
+Working with France right now will take some pressure of me in the short term and help me put England to bed for good
+ALY (RUS TUR FRA) VSS (ENG)
+daide++ error
+
+I updated Sil - Ber
+(RUS AMY SIL) MTO BER
+
+Makes sense. Aside from me and turkey you’re clearly the strongest and it works for me to work with you so I can just focus on England
+PRP (ALY (RUS) VSS (ENG))
+daide++ error
+
+I'm guessing Turkey imposed DMZs on Vie/Bud etc?
+DMZ (TUR) (VIE BUD)
+
+Mostly we had a common interest in taking out Austria
+ALY (RUS TUR) VSS (AUS)
+daide++ error
+
+If I remember correctly we were just starting to work together against england lol
+ALY (RUS FRA) VSS (ENG)
+daide++ error
+
+We can talk about how to divid it up. We definitely should make sure we both get builds. we’re good to pause aggression on our front on the continent?
+PRP (PCE (RUS FRA))
+
+Do you have a will to team up on Turkey at this point? I can't stop T by myself
+PRP (ALY (FRA RUS) VSS (TUR))
+daide++ error
+
+As we move forward, once I start taking centers in the balkans I would be happy to return hol and other centers to keep you strong
+PRP (SCD (FRA HOL))
+
+A Ber - Pru A Boh - Sil A Den - Kie F HEL - NTH A Hol - Ruh A Kie - Mun A Mun - Boh F NAO - Lvp F NTH - NWG F NWG - NAO F Nwy - Stp/nc
+AND (XDO ((RUS AMY BER) MTO PRU)) (XDO ((RUS AMY BOH) MTO SIL)) (XDO ((RUS AMY DEN) MTO KIE)) (XDO ((RUS FLT HEL) MTO NTH)) (XDO ((RUS AMY HOL) MTO RUH)) (XDO ((RUS AMY KIE) MTO MUN)) (XDO ((RUS AMY MUN) MTO BOH)) (XDO ((RUS FLT NAO) MTO LVP)) (XDO ((RUS FLT NTH) MTO NWG)) (XDO ((RUS FLT NWG) MTO NAO)) (XDO ((RUS FLT NWY) MTO (STP NCS)))
+
+I don’t thinkwe’ll be able to push thru the line this fall. Can you move Mun to burg and then bur to gas
+AND (XDO ((FRA AMY MUN) MTO BUR)) (XDO ((FRA AMY BUR) MTO GAS))
+
+Fine with me to move Mun back
+YES (PRP (XDO ((FRA AMY MUN) MTO BUR)))
+
+but I want to move Bur to Pic instead to cover Bel and Bre against England, just in case
+PRP (XDO ((FRA AMY BUR) MTO PIC))
+
+I was thinking of you taking Lon and then, as a trade, me taking Hol. Since you can't use builds atm anyway.
+PRP (SCD (RUS LON) (FRA HOL))
+
+Well, do that now. But we need to pressure War
+PRP (XDO ((RUS AMY MUN) MTO BUR))
+
+I’ll move my army in Munich to the.
+(RUS AMY MUN) MTO TYR
+
+I mean when they were in Stp, and then they didn't try to go got Swe at all.
+REJ (PRP (XDO ((RUS FLT STP) MTO SWE)))
+
+So it looks like while you worked something out with Russia, to carve Germany up, you’re now reorienting against them.  You want to coordinate anything with me, or am I “the enemy”? 🙂
+(ALY (ENG RUS) VSS (GER)) (PRP (ALY (TUR ENG)))
+daide++ error
+
+If I can get into Spain, I will support you to hold in Portugal until the end of 1910 so that if we do it right, France gets eliminated for stabbing you, and you survive with that center plus whatever you can hold in Britain (which I can't help either way with)
+PRP ((ALY (TUR ENG) VSS (FRA)) (TUR SUP (POR HLD)))
+daide++ error
+
+I'm moving in with Ruh
+(FRA AMY RUH) MTO MUN
+
+Yeah Italy is ready to get pretty wrecked, unless Austria  or I decide to stop working together
+ALY (TUR AUS) VSS (ITA)
+daide++ error
+
+Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?
+YES (PRP (DMZ (ITA GER AUS) (TYR)))
+
+Yes. He seemed to be in agreement. Who are you looking to move on to open up?
+YES (PRP (DMZ (GER ITA AUS) (TYR)))
+
+I believe conflict between Russia and Turkey is inevitable so I plan to wait and see what happens there. I'd appreciate support in the future should it come to it, and rest assured that I will endeavour to help you should you be attacked
+NOT (YES (ALY (AUS ITA) VSS (TUR)))
+daide++ error
+
+Ok italy! It's time. W/ the Austrian turkey alliance, I propose we work together to take them out
+PRP (ALY (RUS ITA) VSS (AUS TUR))
+
+Could you attempt to take Venice?
+PRP (SCD (ITA VEN))
+
+Trying to work on an alliance with turkey. Are you on board for going against Austria?
+PRP (ALY (RUS ITA) VSS (AUS))
+daide++ error
+
+So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/
+PRP (ALY (ENG ITA) VSS (GER FRA))
+
+Bonjour, happy to keep it a dmz for now.
+PRP (DMZ (ITA FRA) (PIE))
+
+Thanks for keeping the DMZ in Piedmont
+DMZ (ITA) (PIE)
+
+Interesting, Turkey and I are going to team up against Austria.
+ALY (TUR ITA) VSS (AUS)
+daide++ error
+
+We should talk about moves. I think it's vital that we work together against Turkey and so I'm hoping I might be able to help you with my fleet
+PRP (ALY (FRA ITA) VSS (TUR))
+daide++ error
+
+Hello neighbor. We have quite an historic relationship. I hope we can keep the peace. Dmz tyrolia?
+PRP (DMZ (GER AUS) (TYR))
+
+Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me
+YES (PRP (DMZ (AUS GER) (TYR)))
+
+Hello czar :) I think we should discuss a few things. A dmz of Silesia and Prussia would benefit us both. Let me know what you think. Also, there are plenty of joint risks to us both, particularly as the game progresses. Let me know if you've got any interest working together
+PRP (DMZ (GER RUS) (SIL PRU))
+
+Hm I'm getting your messages only in email form. Not to worry. Yes, I did say Prussia in my original message. I think the Baltic sea sounds fair enough as well. Why don't we work together toward those ends? I'm not shocked at the idea Britain might be looking to come for me
+YES (PRP (DMZ (GER RUS) (PRU BAL)))
+
+Hi germany! Are you up for Sil as a DMZ? It would be in both of our best interests if we didn't get in a fight early on, as both of our great powers already have a lot to deal with on our sides of the map. Looking forwards to a great game!  -Russia
+PRP (DMZ (RUS GER) (SIL))
+
+A DMZ of Prussia and the Baltic might also not hurt. And if you're up to it, maybe even a potential alliance against England?
+PRP ((DMZ (RUS GER) (PRU BAL)) (ALY (RUS GER) VSS (ENG)))
+daide++ error
+
+I'm w/ Austria against turkey
+ALY (RUS AUS) VSS (TUR)
+daide++ error
+
+I'd like denmark, norways all yours. Perhaps we could move on Russia but I think we should start with france, otherwise he'll become a problem for us both. After that we can hash out the rest of scandanavia and Russia as it goes?
+PRP ((SCD (GER DEN)) (SCD (ENG NWY)) (ALY (GER ENG) VSS (FRA)))
+daide++ error
+
+That's fair. I'm personally pro-leave Sweden to Russia but I wanted to double-check with you.
+YES (PRP (SCD (RUS SWE)))
+
+Hey what's the deal with France? They're talking about an alliance between us three to counter Russia and Italy?
+PRP (ALY (FRA ENG GER) VSS (RUS ITA))
+
+He hasn't told me about that. An EFGs an interesting proposition... But idk. What do you think? And wdu mean what's his deal?
+REJ (PRP (ALY (FRA ENG GER) VSS (ITA RUS)))
+
+You built a fleet in Edinburgh? Why? I'd think you'd want it in London no?
+(ENG FLT EDI) BLD
+
+Sorry about the delay. I'm willing to exchange Belgium for cooperation against France.
+YES ((SCD (ENG BEL)) (ALY (ENG GER) VSS (FRA)))
+daide++ error
+
+I'm hoping we can come to a few agreements. Burgundy is a trouble spot for us both. Could we dmz it? I think at the worst, non agression would be in both our best interests, but I'd definitely be open to any proposition you've got
+PRP (DMZ (GER FRA) (BUR))
+
+I can do that for sure, though it does mean slowing down potential convoys into England. What does this look like more broadly? Would you be willing to build a fleet in Kiel to take the North Sea? Does this mean you are letting me keep Munich so I can build a fourth fleet next turn?
+AND (XDO ((GER FLT KIE) BLD)) (SCD (FRA MUN))
+
+I'll send Brest to English Channel and MAO to Irish Sea, but I need Belgium so that I don't go down a build.
+AND (SCD (FRA BEL)) (XDO ((FRA FLT MAO) MTO IRI)) (XDO ((FRA FLT BRE) MTO ECH))
+
+Just disband the troop in ruhr. That would have us certainly on peaceful terms
+PRP (XDO ((FRA AMY RUH) REM))
+
+In that case, I will keep out of Romania if you do the same, we'll keep it as a DMZ?  I'll admit my promise to help you with Scandinavia was a little optimistic, but do excuse me as I'll blame it on a tad too much Austrian beer.  We should keep an eye on Turkey, but I feel as though an alliance this early on will not leave us in the best of standing with the rest of Europe.
+(PRP (DMZ (AUS RUS) (RUM))) (REJ (ALY (AUS RUS) VSS (TUR)))
+daide++ error
+
+If were going to have an alliance, we should aim for blitzing turkey. It's the power triangle; Austria/Turkey/Russia. Only one of them is going to survive very long. Also, what is your relationship with Italy looking like? Just a note: I am willing to work out an agreement of who gets what part of the balkans, but I am taking Romania. It is essentially part of Russia and leaving it as a DMZ just will not do if Turkey goes for the Black Sea
+(PRP (ALY (RUS AUS) VSS (TUR))) (REJ (DMZ (RUS AUS) (RUM)))
+daide++ error
+
+Alliance against turkey is still on right?
+ALY (RUS AUS) VSS (TUR)
+daide++ error
+
+Of course. I heard back from Italy as well and we seem to be on the same wavelength
+ALY (AUS RUS) VSS (TUR)
+daide++ error
+
+It looks like you're alliance has ended. And before long, one of us in the east will be elliminated. I say we work together to make that someone be turkey
+(ALY (AUS TUR)) (PRP (ALY (RUS AUS) VSS (TUR)))
+daide++ error
+
+If this alliance works out(and I hope it does) we will have turkey dead pretty soon🙃
+ALY (RUS AUS) VSS (TUR)
+daide++ error
+
+Hi Turkey! I fully agree that we should stay peaceful with eachother. How do you like the sound of you getting Greece and Bulgaria and I'll go for Romania and Serbia?
+PRP (SCD (TUR GRE BUL) (AUS RUM SER))
+
+We should talk about borders- if you can move your fleet from the Adriatic to Albania it would help you capture Greece, and I'd have no problems staying out of Tyrolia and Trieste if you are willing to do the same.
+AND ((AUS FLT ADR) MTO ALB) (DMZ (FRA AUS) (TYR TRI))
+
+Not sure why Italy disbanded Ionian, but I figure he may have missed the deadline for builds
+(ITA FLT ION) REM
+
+I guess just pull back to Venice?
+PRP (XDO ((FRA AMY TRI) MTO VEN))
+
+Turkey and Russia both told me that they want to eliminate you and England and go for a 3 way draw
+PRP (ALY (TUR RUS FRA) VSS (AUS ENG))
+
+Is NWG to Edi good enough for you?
+PRP (XDO ((ENG FLT NWG) MTO EDI))
+
+Actually, I just looked at the map again. You can keep Nor for now.
+YES (PRP (SCD (RUS NWY)))
+
+I'd rather you fight AT in the East rn, and it looks like you do need every single center you can get. I'll keep denmark but Nor is yours.
+PRP (SCD (ENG DEN) (RUS NWY))
+
+I'm moving Edi into NTH, and NTH into helgo
+AND (XDO ((ENG FLT EDI) MTO NTH)) (XDO ((ENG FLT NTH) MTO HEL))
+
+Ig u get Kiel and holland and I get Ber and Mun?
+PRP (SCD (ENG KIE HOL) (RUS BER MUN))
+
+Hey. I'm surrendering Kiel to you.
+YES (PRP (SCD (RUS KIE)))
+
+I would like to have sev back, yes. I would be willing to give you support sometime in a future turn if you let me have sev back.
+PRP (SCD (RUS SEV))
+
+So what are our short term plans? I still strongly think you should take Serbia
+PRP (SCD (TUR SER))
+
+I will happily do everything in my power to get you Berlin back :)
+YES (PRP (SCD (RUS BER)))
+
+lets let them have tri this spring
+PRP (SCD (AUS TRI))
+
+Hello France! Our fleets bordering the English Channel seem kind of awkward, but I'd like to maintain friendly relations with you. Can we agree to go our separate ways and leave EC free of fleets?
+PRP (DMZ (ENG FRA) (ECH))
+
+Alright splendid. I will keep my fleet out of EC. Further details can be discussed later.
+YES (PRP (DMZ (ENG FRA) (ECH)))
+
+I'm very happy to see your moves. Whild convoying London to Denmark is tempting, I think it makes the most sense to send Skaggerak to Denmark for two reasons.
+PRP (XDO ((ENG FLT SKA) MTO DEN))
+
+He hasn't mentioned Denmark
+REJ (PRP (SCD (ENG DEN)))
+
+Is he giving you Belgium right now?
+YES (PRP (ALY (ENG FRA RUS) VSS (AUS TUR)))
+
+I'm willing to be the weaker power in the interest of countering AT, but I am inclined to think that holding Denmark and Nor is a very reasonable minimum.
+YES (PRP (ALY (ENG FRA RUS) VSS (AUS TUR)))
+
+Makes sense to move it to Kiel I think?
+PRP (XDO ((ENG FLT DEN) MTO KIE))
+
+Hey I just told Russia he can keep Nor for now.
+YES (PRP (SCD (RUS NWY)))
+
+Everything looks good right now. If you sill plan to let Russia keep Norway then I would recommend ordering North Sea-Helgoland Blight, Denmark - Kiel, and Edinburgh-North Sea. Best case scenario, you end up in Helgoland Blight, Kiel, and North Sea and can take Holland in the fall for a total of both Kiel and Holland
+AND (XDO ((ENG FLT NTH) MTO HEL)) (XDO ((ENG FLT DEN) MTO KIE)) (XDO ((ENG FLT EDI) MTO NTH))
+
+Besides, stuff like Kie or even NTH makes it look like you and Russia are only sort of on the same page.
+ALY (FRA RUS) VSS (ENG)
+daide++ error
+
+I *think* the way this can work out is having me take Holland and Russia take Kiel.
+PRP (SCD (FRA HOL) (RUS KIE))
+
+If it's any consolation you don't have to worry about my participation in a coalition LMAO
+NOT (ALY (ENG) VSS (FRA))
+daide++ error
+
+A runaway Russia would not be good for me. Not sure how much I can help though since I'm on the other side of the board. Maybe you can convince Italy to help you against Austria by offering them Greece
+PRP ((ALY (TUR FRA) VSS (AUS)) (SCD (AUS GRE)))
+daide++ error
+
+I wonder if it makes sense for you to actually work with Italy here to stab Austria.
+PRP (ALY (TUR ITA) VSS (AUS))
+daide++ error
+
+It’s none of my business, but if you do plan to take Denmark, I strongly recommend you wait until Fall. I think the most important thing for you right now is getting England fully committed against France. If that happens, taking Denmark later will be easy.
+PRP ((ALY (GER ENG) VSS (FRA)) (SCD (GER DEN)))
+daide++ error
+
+Marked as lie because clearly austria is your favorite. Speaking of, I assume that your seizing Trieste was mutually agreed upon?
+YES (PRP (SCD (ITA TRI)))
+
+Yes — agreed upon.
+YES (PRP (SCD (ITA TRI)))
+
+I think you should suggest to England that he gets Sweden and St Petersburg, while you get Denmark back. That’s only fair, as you have been a loyal ally in the fight against France and you plan to continue to do that.
+(PRP (PRP ((SCD (ENG (SWE STP))) (SCD (GER DEN))))) (ALY (ITA GER) VSS (FRA))
+DAIDE++ error
+
+Is there anything I could gain from seeing you in the channel? Would you support me taking Nth, and potentially seizing the island?
+PRP ((ITA SUP (SCD (GER NTH))) (SCD (GER ENG)))
+PRP (Q (FRA ITA) (CHANNEL) (NTH) (ISLAND))
+
+Okay, but that means I'd prefer to take Brest myself this Spring, if France is okay with it.
+PRP (SCD (GER BRE))
+
+Yes. I wasn’t planning to take Portugal anyway.
+YES (PRP (NOT (SCD (ITA POR))))
+
+👌 So I’ll open as a standard Lepanto. Sounds good.
+AND (XDO ((ITA FLT NAP) MTO ION)) (XDO ((ITA AMY ROM) MTO APU)) (XDO ((ITA AMY VEN) HLD))
+
+That's exactly what I'm thinking. I'm going to send Greece into the Aegean, you send Ionian into Eastern Med.
+AND (XDO ((AUS FLT GRE) MTO AEG)) (XDO ((ITA FLT ION) MTO EAS))
+
+Yep, it will be. I'll want it back eventually, but for now it's yours.
+YES (PRP (SCD (ITA GRE)))
+
+I think probably we give France one season to see what they do. England build F LON and France built F BRE, which is something we should keep an eye on before moving.
+AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD))
+
+You can have Ank, but I really do think it makes sense that I keep Greece. Ending up with 2 centers from Turkey/Balkans seems fair, with you getting everything else, yes?
+PRP (SCD (AUS ANK) (ITA GRE))
+
+F Nap. Sound good?
+(ITA FLT NAP) BLD
+
+Yeah, Naples makes it look like we might actually be fighting, go for it.
+YES (PRP (XDO ((ITA FLT NAP) BLD)))
+
+Yeah. I'd also like to address the center imbalance a bit more directly - as you pick up dots in the west, I'd like to start picking Greece, Vienna, and Ankara back up.
+PRP (SCD (AUS GRE VIE SMY))
+
+Also, for my comfort, do you mind if I pick Trieste back up?
+PRP (SCD (AUS TRI))
+
+I like that. I was thinking that you would move Bud back to Tri, but this is much better. It keeps forward momentum. And yes, you should take back Tri now. That will make builds easier as we move forward.
+YES (SCD (AUS TRI))
+
+Also, actually, I don't have anything for Bulgaria to do, and you're guaranteed two dots this turn. Can I take Greece back too? I can bank a build for the future regardless of what happens, and you stay even. You don't really need a build right now.
+PRP (SCD (AUS GRE))
+
+Hey, so, Austria seems to want to Lepanto now.   You’re still the ally I want. And I’d like either to cut down Austria quickly or cut down Turkey quickly.   If we decide to take out Austria first, I’d like you to let Austria in to Gal (just tell him this was a mistake). This will make it very hard for him to defend against me.  If we decide to take out Turkey first, bounce Austria, and I’ll open as a traditional Lepanto.  Thoughts?
+(PRP (ALY (AUS ITA) VSS (TUR)))
+DAIDE++ error
+
+I really REALLY believe that it’s better for you and me for you to switch course and take out France now. I’d be happy to help and give you most of the spoils. And I think this would be a great springboard for a dominant England/Italian alliance that can win this game. If only I could get this message to go through.... (End)
+PRP (ALY (ITA ENG) VSS (FRA))
+DAIDE++ error
+
+I’m going to get Russia in on the German takedown. You really think the three of us can’t handle france together once germany is gone?
+PRP (ALY (ENG ITA RUS) VSS (GER FRA))
+
+The more I look at this board, the more I want to focus on an E/I Alliance. And I think the only thing standing in our way is France. I don’t see Germany as any kind of obstacle at all.
+PRP (ALY (ENG ITA) VSS (FRA))
+DAIDE++ error
+
+What are your thoughts on a divvy up of you in Mar and Spa, me in Bre and Por, and germany in Bel and Par? Just thinking long term about who gets what.
+PRP (SCD (ITA MAR SPA) (ENG BRE POR) (GER BEL PAR))
+
+If we can get Germany to take Paris, next year will be much easier. I think we should both direct her there.
+PRP (SCD (GER PAR))
+
+Also, just out of curiosity, did you advise Germany to build the Kiel fleet?
+PRP (XDO ((GER FLT KIE) BLD))
+
+I absolutely did not advise G to build the F Kie.
+NOT (XDO ((GER FLT KIE) BLD))
+
+I'm not trying to step on anyone's toes just yet, either. Specifically, I'm happy to keep Bohemia and Tyrolia de-militarized for at least a couple seasons to our mutual benefit?
+PRP (DMZ (GER AUS) (BOH TYR))
+
+Yes, I'm all about fecking with Austria-Italy right now. 😀
+YES (PRP (ALY (RUS GER ENG) VSS (AUS ITA)))
+
+France would love for me to be an ally in taking you out of the game over the next couple of years. They’ve been talking about convincing russia to help with the takedown.
+PRP (ALY (FRA ENG RUS) VSS (GER))
+DAIDE++ error
+
+So my reasoning is that I think France is a stronger player than either of us, or at least a more engaged one. I'm getting all this tactical analysis and commentary about the state of the whole board and all that. If I help France, France probably beats me. If we defeat France together, I think we each end up with an even fighting chance.
+PRP (ALY (ENG GER) VSS (FRA))
+DAIDE++ error
+
+Speaking of, what are your planned builds? I'm building a fleet in London.
+(ENG FLT LON) BLD
+
+Does France think you’ll be cutting support? Also, Italy has been sending some anti-french things my way. A three-on-one alliance could be good for all of us. Containing Russia may distract both of us if he gets aggressive.
+PRP (ALY (ENG GER ITA) VSS (RUS))
+DAIDE++ error
+
+What if I let you into Denmark and I go for Sweden?
+PRP (SCD (GER DEN) (ENG SWE))
+
+I'm happy to give you belgium. My idea of the split is you get Bel and Par, I get Bre and Por, and Italy gets Mar and Spa. Obviously this won't all happen this year. But you in Bel makes sense long-term
+PRP (SCD (GER BEL PAR) (ENG BRE POR) (ITA MAR SPA))
+
+Haha ok, glad to get the confirmation. On my end i’ll confirm I am totally anti-french until France is out of the game. I’ve actually ceased communications with France (maybe something we can all do once the stab is clear). I’d like all three of us to get our two builds each together. Then we can look east.
+ALY (ENG GER ITA) VSS (FRA)
+DAIDE++ error
+
+Why the fleet in berlin btw?
+(GER FLT BER) BLD
+
+Well I figured that I'd need at least one more eventually, and that since my whole northern border is coastal a fleet might be better for defending that. But it'll be all armies after this I think.
+(GER FLT BER) BLD
+
+We can always play to a three way draw! So does this mean you would be committed to a Russia-Germany-England alliance until the others are dealt with?
+YES (PRP (ALY (RUS GER ENG) VSS (ITA AUS FRA)))
+
+I think we agree to coordinated actions until italy is dealt with. I think you in brest is actually more fair, although less ideal for me. I think we need to pick a victor of the russian-austrian war. Austria is an easier pick because i can take russian dots and austria can help with italy.
+PRP ((ALY (ENG GER) VSS (ITA)) (SCD (GER BRE)) (ALY (ENG GER AUS) VSS (RUS ITA)))
+DAIDE++ error
+
+As far as denmark, the aggression there is fair. But you understand why I'm hesitant to drop down to 4 dots at this point in the game. Fortunately, there's an opportunity to do business here now that you're adjacent to Brest.
+REJ (PRP (SCD (GER DEN)))
+
+Yep, Denmark going to Nth.
+(ENG FLT DEN) MTO NTH
+
+My plan is to eventually have only fleets along my northwest coast (they're more versatile in that context) and move the armies inland.   See what you can negotiate with Italy, but no matter what they say, I'd be prepared to use your full strength to get Nao into Mao, if that's what you want to do. (And in case it's not obvious, it's what *I* think you should do)
+PRP (XDO ((ENG FLT NAO) MTO MAO))
+
+wait, I'm confused. What? The unit displaced from Nth. You haven't given retreat orders yet. Go to Edi?
+(ENG FLT NTH) RTO EDI
+
+So if you're willing to collaborate, I've got some ideas, and would want to hear yours as well. I genuinely think working with me against Italy will be a better long-term strategy for you than working against Italy or alone. Italy is just too strong already. And, as I've said before, I'd like to see an underdog story.
+PRP (ALY (ENG GER) VSS (ITA))
+DAIDE++ error
+
+So, broadly speaking, the alliance would involve Austria. And that means moving against Russia. We have a huge advantage going into Russia, which takes pressure off of Austria and allows austria to put pressure on Italy.
+PRP (ALY (ENG GER AUS) VSS (RUS ITA))
+
+Gotcha. So we're both sworn to take down Italy? I certainly am.
+YES (ALY (ENG GER) VSS (ITA))
+DAIDE++ error
+
+Plan is not on, but working together against Italy definitely on?
+YES (ALY (ENG GER) VSS (ITA))
+DAIDE++ error
+
+I still haven't heard from France. And we already agreed that you take liverpool.
+YES (PRP (SCD (ENG LVP)))
+
+So, here's my pitch: I have been on both sides of the deal when Austria, Italy, and Russia decide that everything would be simpler if there wasn't a Turkey. Every time, things have indeed been simpler for A/I/R. So, whaddya think? Wanna simplify our game?
+PRP (ALY (AUS RUS) VSS (TUR))
+DAIDE++ error
+
+I'm building army Sebastopol for the obvious defense - assuming you do build in Trieste, will take steps to demilitarize that border (no move to Galicia or otherwise in your direction, cooperate on Smyrna, moving units away as soon as possible)
+AND (XDO ((RUS AMY SEV) BLD)) (DMZ (RUS AUS) (GAL))
+
+So you built F LON and France built F BRE, eh? Trouble in paradise?
+AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD))
+
+It's somewhat on us to contain russia. I'd rather us both put pressure on Russia than you put pressure on Italy or I put pressure on Germany.
+PRP (ALY (ENG AUS) VSS (RUS))
+DAIDE++ error
+
+F Bre, eh? I'm curious what you're gonna do with that.
+(FRA FLT BRE) BLD
+
+Maybe you can ask for Trieste back?
+PRP (SCD (AUS TRI))
+
+My gift to you is willingly suiciding so that England and Germany have a chance to stop Italy in the West. Please don't waste it, though I won't be there to see it 🙂 .
+ALY (FRA ENG GER) VSS (ITA)
+DAIDE++ error
+
+Take Romania I will not hinder it in any way
+PRP (SCD (RUS RUM))
+
+I'd like to leave it unoccupied. A fight early on is bad for both of us.
+PRP (DMZ (ENG FRA) (ECH))
+
+Makes sense. I agree, a DMZ is good for us both. I know that getting armies off of the island is pretty important for you. Depending on how it plays out we could talk about Belgium. Any thoughts on your other neighbors Germany and Russia?
+YES (PRP (DMZ (FRA ENG) (ECH)))
+
+Not saying you are the big winner, I'm saying that your misorder was probably a good thing. Before we get into the details of an alliance against Germany, I think it's worth noting that the AI alliance is going to absolutely roll over Russia/Turkey, and so if you take Russia's dots that are easy to take, I think it will be helping Germany/Austria/Italy more than it helps you.
+ALY (AUS ITA) VSS (RUS TUR)
+
+Ok. I don't get why you think I'd build F Brest, but at the very least I appreciate the heads up. At some point I'd like to see you make a decisive move. So far it seems like you've been trying to make moves that both Germany and I agree to.
+NOT (XDO ((FRA FLT BRE) BLD))
+
+The DMZ stands. I'd like confirmation from you that it stays through the end of 1903.
+PRP (DMZ (ENG FRA) (ECH))
+
+Can you explain why you didn’t build it in Mar?
+NOT (XDO ((FRA FLT MAR) BLD))
+
+Nonaggression in piedmont
+PRP (DMZ (ITA FRA) (PIE))
+
+I mean, if you’re worried about them teaming up, we could go joint against France...I’m game to try it
+PRP (ALY (ITA GER) VSS (FRA))
+DAIDE++ error
+
+Why no army in Berlin?  Just as close to warsaw, protects you against Russian navy fuckery
+NOT (XDO ((GER AMY BER) BLD))
+
+Or were you gonna army in Berlin also?
+(GER AMY BER) BLD
+
+Yeah doing both. My Berlin army might get bogged down with that pesky ruski fleet
+AND (XDO ((GER AMY BER) BLD)) (XDO ((GER AMY MUN) BLD))
+
+Can you promise it’s not going there?
+(GER AMY MUN) MTO TYR
+
+Yes I can promise
+NOT (XDO ((GER AMY MUN) MTO TYR))
+
+Well me and england are only committed to taking out Austria
+ALY (GER ENG) VSS (AUS)
+DAIDE++ error
+
+But Tunis is a great call here and you can set yourself up to move into a good position against Turkey while also taking Tunis
+PRP (SCD (ITA TUN))
+
+If you're all in, I'll just send you a link.  It's Austria driven, but pretty balanced.  The Bluewater is geared towards Austria because getting the retreat is essential, but the outcome is the same as a classic lepanto
+PRP (ALY (AUS ITA) VSS (TUR))
+DAIDE++ error
+
+Do we have anything more we need to talk about?  I still am In on this alliamce, gonna do the lepanto
+YES (ALY (ITA AUS) VSS (TUR))
+DAIDE++ error
+
+Ok- so none of my armies/navies in Venice after this build, none of yours in Trieste.  Done deal.
+YES (PRP (DMZ (ITA AUS) (VEN TRI)))
+
+Yeah that's fine
+YES (PRP (XDO ((ITA FLT NAP) BLD)))
+
+But I ain’t lol
+NOT (XDO ((ITA AMY VEN) BLD))
+
+Heading down into the Adriatic here.  Trying to contain Turkey
+(AUS FLT TRI) MTO ADR
+
+Lol we should have deconflicted- I spent a lot of time last night trying to get england and Germany to play nice at least few the next turn.  I assume you don’t want england to help me bc you don’t want me to get too strong?
+PRP (PCE (ENG GER))
+
+You’re still going army Vienna yes?
+(AUS AMY VIE) BLD
+
+Army Bud
+(AUS AMY BUD) BLD
+
+Also also, he asked me not to give you Smyrna.  He's playing tricky and he's doing it badly
+PRP (NOT (SCD (ITA SMY)))
+
+This isn't a great look for us. Stay strong against France and Turkey. We'll have a stalemate line soon
+ALY (AUS ITA) VSS (FRA TUR)
+
+Agreed re: Germany.  Wish we’d had more time to discuss that build but it happens.
+YES (ALY (ITA AUS ENG) VSS (GER))
+DAIDE++ error
+
+Mhmm thought we had a non aggression pact there tho
+YES (PRP (DMZ (ITA AUS) (TYR)))
+
+I suggested you take marseille and Spain, I take Brest and Portugal and he gets Paris and Belgium
+PRP (SCD (ITA MAR SPA) (ENG BRE POR) (GER PAR BEL))
+
+We’re going to DMZ it
+YES (PRP (DMZ (ENG GER) (NTH)))
+
+Absolutely not.
+NOT (ALY (ITA GER) VSS (ENG))
+DAIDE++ error
+
+how do we  bring him down?  austria is talking to me about the same thing
+(PRP (ALY (AUS ENG) VSS (GER))) (PRP (ALY (ENG ITA) VSS (GER)))
+DAIDE++ error
+
+if you recall, i was supposed to get brest and portugal, you were supposed to get marsielles and spain and Germany was supposed to get paris and Belgium
+YES (PRP (SCD (ENG BRE POR) (ITA MAR SPA) (GER PAR BEL)))
+
+But I’m not going to do that!!!
+NOT (XDO ((ITA FLT NAP) BLD))
+
+Why no fleet in Ankara then?  That’s much less threatening to me
+NOT (XDO ((TUR FLT ANK) BLD))
+
+Build an army there, not a fleet
+PRP (XDO ((TUR AMY ANK) BLD))
+
+I'll build an army in Smy
+(TUR AMY SMY) BLD
+
+I think very soon you, me and england will need to band together or Germany will simply roll over all of us
+PRP (ALY (TUR ITA ENG) VSS (GER))
+DAIDE++ error
+
+A truce for the first few turns
+PCE (GER ENG FRA)
+
+Mun > Ruh would give me opportunity to be a bigger player in the west.
+(GER AMY MUN) MTO RUH
+
+I’m building an army in Mun and a fleet in Kiev
+AND (XDO ((GER AMY MUN) BLD)) (XDO ((GER FLT KIE) BLD))
+
+F Tri, A Vie
+AND (XDO ((AUS FLT TRI) BLD)) (XDO ((AUS AMY VIE) BLD))
+(FRA FLT TRI) MTO BUD VIA VIE
+
+Move SKA to North Sea?
+(GER FLT SKA) MTO NTH
+
+No, Denmark
+PRP (XDO ((GER FLT DEN) MTO NTH))
+
+Not interested, sorry.
+REJ (PRP (SCD (GER NWY)))
+
+Shit. I’m pretty screwed now. Disbanding my Prussia Army so you don’t need to worry about me. Need to beat Turkey back to stay alive.
+(RUS AMY PRU) REM
+
+You should grab Sweden.
+PRP (SCD (GER SWE))
+
+What about a demilitarised North Sea. We agree to leave it open.
+PRP (DMZ (GER ENG) (NTH))
+
+Makes sense. He’s a good player. How long do you see these terms holding out? Does Paris still go to me?
+YES (PRP (SCD (GER PAR)))
+
+Yes you still get Paris
+YES (PRP (SCD (GER PAR)))
+
+He’s saying that I need to work with France to make sure you don’t get too strong
+PRP (ALY (ENG FRA) VSS (GER))
+DAIDE++ error
+
+We are 100% on
+YES (ALY (ENG GER) VSS (AUS))
+DAIDE++ error
+
+Basically just to be clear, I see this as a long term alliance to stop Austria. From my POV, it’s not about me or you winning ourselves but about having someone other than this top ranked player beat all of us.
+ALY (GER ENG) VSS (AUS)
+DAIDE++ error
+
+I should have moved London to the channel
+NOT (XDO ((ENG FLT LON) MTO ECH))
+
+Absolutely. I’m still team kill Austria (and maybe Italy)
+ALY (ENG GER) VSS (AUS)
+DAIDE++ error
+
+Let me know if you’re cool with me temporarily putting my fleet in ska in the North Sea to block off France. France retreating their will screw things up big time. I have it set to move there right now, but I’ll call it off immediately if you tell me to.
+PRP (XDO ((GER FLT SKA) MTO NTH))
+
+Did you work out Warsaw with Austria?
+YES (PRP (SCD (GER WAR)))
+
+Another thought - maybe, we agree that if we want to break the alliance after Austria is subdued we have a one term armistice so we can regroup and prepare, once again to reduce risk of stab
+PRP (PCE (GER ENG))
+
+He’s committed to joining forces against you. I’ve stayed silent.
+NOT (YES (ALY (AUS ENG) VSS (GER)))
+DAIDE++ error
+
+And yes army in Mun and Ber
+AND (XDO((GER AMY MUN) BLD)) (XDO ((GER AMY BER) BLD))
+
+I’m in it to win it with you
+ALY (ENG) VSS (AUS)
+DAIDE++ error
+
+I’ll move there in the spring
+(ENG AMY MOS) MTO UKR
+
+Good shit man. I’m moving Burg to Mun and War to Ukraine
+AND (XDO ((GER AMY BUR) MTO MUN)) (XDO ((GER AMY WAR) MTO UKR))
+
+Any chance you’d give up Paris? I don’t see where my sc is coming from and I need a build for our parity.
+PRP (SCD (ENG PAR))
+
+Why did the army in Pru halt?
+(RUS AMY PRU) REM
+
+France I think. The A spa -Mar got stopped
+NOT (XDO ((FRA AMY SPA) MTO MAR))
+
+Not entirely. He did not move F Nap - Ion
+NOT (XDO ((ITA FLT NAP) MTO ION))
+
+What if we all just ganged up. Even if I lose knowing I helped beat the best player in the world would be dope lol
+PRP (ALY (GER TUR FRA RUS ENG ITA) VSS (AUS))
+DAIDE++ error
+
+I’m thinking I take Serb and you can have Greece if that’s cool with you?
+PRP (SCD (GER SER) (TUR GRE))
+
+Potentially! As long as we can agree to some broader armistice. I don’t want to focus on fighting you. We just toppled Austria together and plus Turkey is mega hard to take with out a Mediterranean fleet... but we could cause problems for each other if we don’t work something out.
+PRP (PCE (GER TUR))
+
+I’ve set my order to Mun -> Burg
+(GER AMY MUN) MTO BUR
+
+If they do that, we desperately need to be strongly allied with the Austrians, otherwise they'll roll us over, hard.
+PRP (ALY (GER ITA AUS) VSS (RUS TUR))
+
+If you want to prevent a juggernaut, we will need whatever help from you we can get
+PRP (ALY (ITA AUS GER) VSS (RUS TUR))
+
+So I plan to do F Alb S F Ven - Tri, A Apu - Ven
+AND (XDO ((ITA FLT ALB) SUP (ITA FLT VEN) MTO TRI)) (XDO ((ITA AMY APU) MTO VEN))
+
+Odds of succeeding in this improve dramatically if also support with A Tyr S A Apu - Ven - would you be willing to do so?
+PRP (XDO ((GER AMY TYR) SUP (GER AMY APU) MTO VEN))
+
+I haven’t been told to do a Lepanto yet, who said that? And yes I would like peace on our front, I could have a three front war at any time so it would be great if you and I did not fight. Where would you expand to then?
+YES (PRP (PCE (AUS ITA)))
+
+Would like to get your thoughts on your other moves? Is A Budapest going to Serbia, and is A Vienna going to Galicia or allowing Russia in?
+AND (XDO ((AUS AMY BUD) MTO SER)) (XDO ((AUS AMY VIE) MTO GAL))
+
+I 100% do not want to fight you. I agree that Austria Italy is a war that often happens but never really works out for either side. We would just stagnate until russia or turkey or both took us out.
+YES (PRP (PCE (AUS ITA)))
+
+I'm game for the Lepanto, and it seems Germany is on board as well
+YES (ALY (ITA AUS GER) VSS (TUR))
+DAIDE++ error
+
+With the build in Marseilles, France's goals are quite transparent
+(FRA FLT MAR) BLD
+PRP ((FRA FLT MAR) BLD) MTO SPA POR
+
+I can still support A Serbia - Buglaria as well, if that helps
+PRP (XDO ((AUS AMY SER) MTO BUL))
+
+England seems to be a bit pessimistic, which is probably justified facing a France-Germany coalition
+ALY (FRA GER) VSS (ENG)
+DAIDE++ error
+
+Yes a cease fire sounds perfect, I need to handle Turkey.
+YES (PRP (PCE (AUS ITA)))
+
+If you can capture St Petersburg from Germany while holding on to Moscow
+PRP ((SCD (AUS STP)) (MOS HLD) (ALY (AUS ITA TUR FRA) VSS (GER)))
+DAIDE++ error
+
+Well considering the opening, I’d say I’m anti France. I will be working with Germany against France. Pressure in piedmont and Med would be appreciated. You’re bound to pick up a few dots if Germany and I work well against France.
+ALY (ENG GER) VSS (FRA)
+DAIDE++ error
+
+I'm pretty mad at France as well after they built a fleet in Marseilles
+(FRA FLT MAR) BLD
+
+For what it's worth, I will build a fleet in Rome as you had requested - as it is necessary to cover France
+YES (PRP (XDO ((ITA FLT ROM) BLD)))
+
+If you are willing to build an army in Con as well, I would take that as a strong indicator of your desire for cooperation, but would understand if you feel that is not an option for you
+PRP (XDO ((TUR AMY CON) BLD))
+
+I think you need an army in Venice, my friend.
+PRP (XDO ((ITA AMY VEN) BLD))
+
+I’m gonna roll the dice and build A Con.
+(TUR AMY CON) BLD
+
+Well, I see you got cold feet regarding the A Con build
+NOT (XDO ((TUR AMY CON) BLD))
+
+A Ven S F Alb - Tri A ION C A Nap - Alb would be the fastest way to ramp up the pressure on Austria
+AND (XDO ((ITA AMY VEN) SUP (ITA FLT ALB) MTO TRI)) (XDO ((ITA FLT ION) CVY (ITA AMY NAP) CTO ALB))
+
+Let's try to coordinate with France and Austria to prevent a German victory, but might be a lost cause at this point
+PRP (ALY (ITA TUR) VSS (GER))
+DAIDE++ error
+
+And then try to use Rum to go to Galicia
+PRP (XDO ((TUR AMY RUM) MTO GAL))
+
+Makes sense with Greece, is Aegean going to the Ionian then?
+(TUR FLT AEG) MTO ION
+
+no.  no need.
+REJ (PRP (XDO ((TUR FLT AEG) MTO ION)))
+
+Suggest we demilitarize Piedmont and Gulf of Tyrolia. I won't be too happy if you move to Spain sc or build a fleet in Piedmont either
+PRP (DMZ (ITA FRA) (MAR TYR))
+
+What's with the fleet build in Marseilles?
+(FRA FLT MAR) BLD
+
+We would mutually benefit from a de-escalation
+PRP (DMZ (ITA FRA) (LYO TYS))
+
+I am willing to concede it to you if you cooperate elsewhere
+PRP (SCD (FRA VEN))
+
+I would require the return of Venice as a precondition to any cooperation against Germany
+PRP ((SCD (ITA VEN)) (ALY (ITA FRA) VSS (GER)))
+DAIDE++ error
+
+Lol especially with that fleet build
+(TUR FLT SMY) BLD
+PRP ((FRA FLT MAR) BLD)
+
+I was really hoping to secure Warsaw for myself, truth be told, unless you intend to stay friends with the Turks once Russia's finished off, but then again I'm not under any specific threat so I suppose you can have it.
+YES (PRP (SCD (AUS WAR)))
+
+Alright, from there Moscow is yours, I'll take St. Petersburg and Sweden and you'll take Romania and Sevastopol, as well as, of course, whatever you can get off the Turks.
+YES (PRP (SCD (AUS MOS RUM SEV) (GER STP SWE)))
+
+What is your stance on me taking War
+YES (SCD (AUS WAR))
+
+I would certainly prefer having Warsaw myself, and eventually I would prefer to get it from you, but if you think that it'd be better for you to have it I will support that.
+YES (SCD (AUS WAR))
+
+Alright, the Turkish/Russian Alliance is pretty thoroughly ruined at this point, think it's safe to double down with the Italians to crush them now.
+(NOT (ALY (TUR RUS))) (PRP (ALY (GER AUS) VSS (ITA)))
+DAIDE++ error
+
+I’m gonna reach out to england about seeing if they would take St P, even though it would be selfish and short sighted of him it might be enticing enough for him to do it
+PRP (SCD (ENG STP))
+
+Hello and good evening! You and I have much to talk about, and if we don't get certain things sorted out and understood between us I'm afraid that any conflict that might arise would surely sink us both.  First thing's first, I would greatly prefer if we could keep  Silesia and Prussia demilitarized, as well as Bohemia should such a situation arise.
+PRP (DMZ (GER RUS) (SIL PRU BOH))
+
+It's been pretty limited, made some agreements regarding Belgium but aside from that they've been cagey
+YES (BEL)
+??
+
+You’re in tight with France and I haven’t seen anything to make me think otherwise. Unfortunate that Russia messed up. I hope we can work together against France. I can make a great ally.
+(ALY (GER FRA)) (ALY (ENG GER) VSS (FRA))
+DAIDE++ error
+
+Hey Germany. "Natural suited antagonists"? I beg to differ. I personally think that over here in the west, a France/Germany alliance is the strongest, preferably taking out England ASAP. What do you think?
+PRP (ALY (FRA GER) VSS (ENG))
+DAIDE++ error
+
+So you're headed to Belgium now from the Channel, yes?
+(FRA FLT ECH) MTO BEL
+
+Yes, it's fine. Sooo, ig the game is in grace period, so I was wondering what you builds were looking like. I will build a fleet in Bre and if you build a fleet in Kiel, the 4 combined fleets should be more than enough to take out britain, and we shouldn't have to build anything else in that regard.
+AND (XDO ((FRA FLT BRE) BLD)) (XDO ((GER FLT KIE) BLD))
+
+I'll be building in Munich, just so I don't catch you by surprise with that. Want to be able to move in as fast as possible on the Austrians when we go for it.
+(GER AMY MUN) BLD
+
+Would you be ok with me building army in paris? I would send it over to the south east prob
+YES (PRP (XDO ((FRA AMY PAR) BLD)))
+
+Well, I certainly wouldn't say no, you'll definitely have an easier time taking the Italians than I will bleeding anything from the Austrians.
+YES (PRP (SCD (GER BEL)))
+
+The one where you somehow convinced the English to side with you, mostly.
+ALY (ENG) VSS (GER)
+DAIDE++ error
+
+we need to join together againt germany
+PRP (ALY (ENG AUS) VSS (GER))
+DAIDE++ error
+
+Yes
+(AUS AMY SER) MTO RUM
+
+I think it would be better for you to take Rumania than I.  And my gut tells me that your neigbors are looking to gang up on you.  That's not good for me, since I'm still stuck in this corner. 😦
+YES (PRP (SCD (AUS RUM)))
+
+I get Serbia you get Gre? That would leave us at 2 and 2
+PRP (SCD (AUS SER) (TUR GRE))
+
+yeah, I didn't talk to you about going to greece, but ... this isn't chutes and ladders.    However, we're now in really good position to make short work of Russia if we work together.  Thoughts?
+PRP (ALY (TUR AUS) VSS (RUS))
+DAIDE++ error
+
+I get Greece.
+PRP (SCD (TUR GRE))
+
+And then we split Italy.
+PRP (SCD (TUR VEN ROM NAP) (AUS VEN ROM NAP))
+
+Also, I'd appreciate a boost into Sevastapol, but the rest of Russia would be yours.
+PRP (SCD (TUR SEV) (AUS MOS STP WAR))
+
+I’ll move Ser in
+(AUS AMY SER) MTO RUM
+
+Okay I’m reading your proposal again and are you saying you would get all of russia?
+PRP (SCD (TUR MOS STP WAR SEV))
+
+Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?
+PRP (DMZ (FRA ITA) (PIE LYO WES TYS))
+
+Bud
+(AUS AMY SER) MTO BUD
+
+I’d like for you to take Sev, it we need russia to lose more units so that we can finish him before germany is too strong.
+PRP (SCD (TUR SEV))
+
+I’m moving EMS-ION. Can you support it in with Greece?
+PRP (AUS SUP ((TUR FLT EAS) MTO ION))
+??
+
+Gal is going in
+(AUS AMY GAL) MTO MOS
+
+You can take Sev
+PRP (SCD (TUR SEV))
+
+would you be interested in going after Italy with me?
+PRP (ALY (FRA AUS) VSS (ITA))
+DAIDE++ error
+
+Not right now no, I have to figure out my russia and turkey situation
+REJ (ALY (AUS FRA) VSS (ITA))
+DAIDE++ error
+
+Looks like you and germany are allied? Good luck versus england
+ALY (FRA GER) VSS (ENG)
+DAIDE++ error
+
+Thanks. I would like you to re-consider my proposal. You have become a very powerful country, and if you decide to turn on Italy, there is nothing they can do between the two of us. Right now Turkey and Russia are standing each other off, and there is no immediate threat from either of them for you. Italy will be easy supply centers. I would of course support you into their territory, provided you return the favor. We could work out more details if your interested
+PRP (ALY (FRA AUS) VSS (ITA))
+DAIDE++ error
+
+so... what do you think?
+YES (ALY (FRA AUS) VSS (ITA))
+DAIDE++ error
+
+You and Turkey are the most importand. Italy and England are basically out of the game anyways. We can definitly still stop germany, but in order for that to happen you and Turkey are going to have to stop fighting, right away, and work together to get in through germanies back door. They are sending basically all of their units to my hometown, which means they are going to be vulnerable against you guys.
+PRP (ALY (FRA AUS TUR) VSS (GER))
+DAIDE++ error
+
+it seems germany and France are teaming up against me.  Do you think we can work together against Germany?
+(ALY (GER FRA) VSS (ENG)) (PRP (ALY (ENG RUS) VSS (GER)))
+DAIDE++ error
+
+perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well
+YES (PRP (ALY (RUS ENG) VSS (GER FRA)))
+
+Mind if I take Rumania?
+PRP (SCD (TUR RUM))
+
+Rumania is all yours, be my guest
+YES (PRP (SCD (TUR RUM)))
+
+Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves. Looking forwards to a great game, and good luck!
+PRP ((ALY (FRA ENG) VSS (GER)) (DMZ (FRA ENG) (ECH)))
+DAIDE++ error: VSS must precede 2 countries
+
+Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.
+YES ((ALY (ENG FRA) VSS (GER)) (DMZ (ENG FRA) (ECH)))
+DAIDE++ error: VSS must precede 2 countries
+
+Germany, Austria and Italy are allies against France and Russia.
+PRP (ALY (GER AUS ITA) VSS (FRA RUS))
+
+We propose an alliance between Germany, Austria and Italy against France and Russia.
+PRP (ALY (GER AUS ITA) VSS (FRA RUS))
+
+the Italian fleet in Venice
+ITA FLT VEN
+
+Move the French fleet on the north coast of Spain to the Mid-Atlantic Ocean.
+(FRA FLT (SPA NCS)) MTO MAO
+
+Build a Russian army in Moscow.
+(RUS AMY MOS) BLD
+
+We propose peace between England, France and Germany.
+PRP (PCE (ENG FRA GER))
+
+We accept the peace proposal between England, France and Germany.
+YES (PRP (PCE (ENG FRA GER)))
+
+Retreat the Italian army from Greece to Albania.
+(ITA AMY GRE) RTO ALB
+
+Let the French fleet in the English Channel support the French army in Belgium.
+(FRA FLT ECH) SUP (FRA AMY BEL)
+
+Hi germany! Are you up for Sil as a DMZ? It would be in both of our best interests if we didn't get in a fight early on, as both of our great powers already have a lot to deal with on our sides of the map. Looking forwards to a great game!
+PRP (DMZ (RUS GER) (SIL))
+
+Hi Turkey! I fully agree that we should stay peaceful with eachother. How do you like the sound of you getting Greece and Bulgaria and I'll go for Romania and Serbia?
+YES (PRP (PCE (AUS TUR)))
+PRP (SCD (TUR GRE BUL) (AUS RUM SER))
+
+Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?
+PRP (DMZ (FRA ITA) (PIE WES))
