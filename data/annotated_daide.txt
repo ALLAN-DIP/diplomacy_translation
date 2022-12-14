@@ -660,7 +660,7 @@ PRP (PCE (GER ENG))
 
 He’s committed to joining forces against you. I’ve stayed silent.
 NOT (YES (ALY (AUS ENG) VSS (GER)))
-DAIDE++ error
+daide++ error
 
 And yes army in Mun and Ber
 AND (XDO((GER AMY MUN) BLD)) (XDO ((GER AMY BER) BLD))
@@ -808,10 +808,6 @@ PRP (SCD (ENG STP))
 Hello and good evening! You and I have much to talk about, and if we don't get certain things sorted out and understood between us I'm afraid that any conflict that might arise would surely sink us both.  First thing's first, I would greatly prefer if we could keep  Silesia and Prussia demilitarized, as well as Bohemia should such a situation arise.
 PRP (DMZ (GER RUS) (SIL PRU BOH))
 
-It's been pretty limited, made some agreements regarding Belgium but aside from that they've been cagey
-YES (BEL)
-??
-
 I hope we can work together against France. I can make a great ally.
 ALY (ENG GER) VSS (FRA)
 
@@ -871,10 +867,6 @@ Bud
 
 I’d like for you to take Sev, it we need russia to lose more units so that we can finish him before germany is too strong.
 PRP (SCD (TUR SEV))
-
-I’m moving EMS-ION. Can you support it in with Greece?
-PRP (AUS SUP ((TUR FLT EAS) MTO ION))
-??
 
 Gal is going in
 (AUS AMY GAL) MTO MOS
@@ -953,7 +945,6 @@ PRP (DMZ (RUS GER) (SIL))
 
 Hi Turkey! I fully agree that we should stay peaceful with eachother. How do you like the sound of you getting Greece and Bulgaria and I'll go for Romania and Serbia?
 YES (PRP (PCE (AUS TUR)))
-PRP (SCD (TUR GRE BUL) (AUS RUM SER))
 
 Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?
 PRP (DMZ (FRA ITA) (PIE WES))
