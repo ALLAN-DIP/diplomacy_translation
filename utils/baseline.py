@@ -1,6 +1,16 @@
 import json
+from daidepp import create_daide_grammar, daide_visitor
 
 all = []
+
+def validate(daide):
+    try:
+        grammar = create_daide_grammar(level=130, string_type='all')
+        parse_tree = grammar.parse(daide)
+        daide_visitor.visit(parse_tree)
+        return True
+    except:
+        return False
 
 with open('data/annotated_daide.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -9,11 +19,7 @@ with open('data/annotated_daide.json', 'r', encoding='utf-8') as f:
         msg = entry['msg']
         daide = entry['daide']
         
-        if 'PRP' not in daide:
-            all.append({'msg': msg, 'daide': daide})
+        if not validate(daide):
+            print(msg)
 
-    f.close()
-
-with open('data/annotated_daide_no_prp.json', 'x', encoding='utf-8') as f:
-    json.dump(all, f, ensure_ascii=False, indent=4)
     f.close()

@@ -29,7 +29,7 @@ text = "There is a language called DAIDE that is used to communicate orders in D
         YES (PRP (AND (SCD (ENG BEL)) (ALY (ENG GER) VSS (FRA))))"
 
 def toDAIDE(eng_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0) -> str:
-    command = "Now translate the following from English to DAIDE press message: " + eng_msg
+    command = "Now translate the following from English to DAIDE: " + eng_msg
 
     response = openai.Completion.create(
         model="text-davinci-003",
@@ -44,7 +44,7 @@ def toDAIDE(eng_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_
 
 
 def toEnglish(daide_msg: str, temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0) -> str:
-    command = "Now translate the following DAIDE press message to English: " + daide_msg
+    command = "Now translate the following DAIDE to English: " + daide_msg
 
     response = openai.Completion.create(
         model="text-davinci-003",

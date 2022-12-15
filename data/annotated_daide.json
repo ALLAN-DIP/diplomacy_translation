@@ -61,7 +61,7 @@
     },
     {
         "msg": "I think you need to stop the Nwg-Bar move, by doing Nwy-Bar.  At the same time, we need to just give you Tri so you can build another northern fleet.  We can give it back to me next year and if necessary you just disband a rearguard army to make up for it if you’re not picking up another build somewhere else.",
-        "daide": "PRP (AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI))"
+        "daide": "PRP (AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI)))"
     },
     {
         "msg": "A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy - BAR A Sil - Mun F Swe - Nwy A Vie - Tri A War - Pru",
@@ -89,11 +89,7 @@
     },
     {
         "msg": "I updated Sil - Ber",
-        "daide": "PRP (XDO (RUS AMY SIL) MTO BER))"
-    },
-    {
-        "msg": "Makes sense. Aside from me and turkey you’re clearly the strongest and it works for me to work with you so I can just focus on England",
-        "daide": "PRP (ALY (RUS) VSS (ENG))"
+        "daide": "PRP (XDO ((RUS AMY SIL) MTO BER))"
     },
     {
         "msg": "I'm guessing Turkey imposed DMZs on Vie/Bud etc?",
@@ -157,7 +153,7 @@
     },
     {
         "msg": "I'm moving in with Ruh",
-        "daide": "PRP (XDO (FRA AMY RUH) MTO MUN))"
+        "daide": "PRP (XDO ((FRA AMY RUH) MTO MUN))"
     },
     {
         "msg": "Yeah Italy is ready to get pretty wrecked, unless Austria  or I decide to stop working together",
@@ -233,7 +229,7 @@
     },
     {
         "msg": "I'd like denmark, norways all yours. Perhaps we could move on Russia but I think we should start with france, otherwise he'll become a problem for us both. After that we can hash out the rest of scandanavia and Russia as it goes?",
-        "daide": "PRP ((SCD (GER DEN)) (SCD (ENG NWY)) (ALY (GER ENG) VSS (FRA)))"
+        "daide": "PRP (AND (SCD (GER DEN)) (SCD (ENG NWY)) (ALY (GER ENG) VSS (FRA)))"
     },
     {
         "msg": "That's fair. I'm personally pro-leave Sweden to Russia but I wanted to double-check with you.",
@@ -701,7 +697,7 @@
     },
     {
         "msg": "Do we have anything more we need to talk about?  I still am In on this alliamce, gonna do the lepanto",
-        "daide": "PRP (YES (ALY (ITA AUS) VSS (TUR)))"
+        "daide": "YES (PRP (ALY (ITA AUS) VSS (TUR)))"
     },
     {
         "msg": "Ok- so none of my armies/navies in Venice after this build, none of yours in Trieste.  Done deal.",
@@ -1064,10 +1060,6 @@
         "daide": "PRP (DMZ (GER RUS) (SIL PRU BOH))"
     },
     {
-        "msg": "It's been pretty limited, made some agreements regarding Belgium but aside from that they've been cagey",
-        "daide": "YES (BEL)"
-    },
-    {
         "msg": "I hope we can work together against France. I can make a great ally.",
         "daide": "PRP (ALY (ENG GER) VSS (FRA))"
     },
@@ -1148,10 +1140,6 @@
         "daide": "PRP (SCD (TUR SEV))"
     },
     {
-        "msg": "I’m moving EMS-ION. Can you support it in with Greece?",
-        "daide": "PRP (AUS SUP ((TUR FLT EAS) MTO ION))"
-    },
-    {
         "msg": "Gal is going in",
         "daide": "PRP (XDO ((AUS AMY GAL) MTO MOS))"
     },
@@ -1221,7 +1209,7 @@
     },
     {
         "msg": "the Italian fleet in Venice",
-        "daide": "PRP (XDO (ITA FLT VEN))"
+        "daide": "ITA FLT VEN"
     },
     {
         "msg": "Move the French fleet on the north coast of Spain to the Mid-Atlantic Ocean.",
