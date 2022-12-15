@@ -70,15 +70,8 @@ def compute_accuracy(reference: str, translation: str) -> float:
     f = precision * recall * 2 / (precision + recall)
     return round(f, 3)
 
-def read_file() -> List[str]:
-    with open('data/generated_daide_clean.txt', 'r') as f:
-        lines = f.read()
-        entries = lines.split('\n\n')
-    
-    for entry in entries:
-        english, reference, translation = entry.split('\n')
-        print(compute_accuracy(reference, translation))
-    return lines
+def read_file():
+    print()
 
 if __name__ == '__main__':
     lines = read_file()

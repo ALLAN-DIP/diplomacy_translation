@@ -1,8 +1,6 @@
 import json
 from daidepp import create_daide_grammar, daide_visitor
 
-all = []
-
 def validate(daide):
     try:
         grammar = create_daide_grammar(level=130, string_type='all')
@@ -12,14 +10,21 @@ def validate(daide):
     except:
         return False
 
-with open('data/annotated_daide.json', 'r', encoding='utf-8') as f:
+valid = 0
+total = 0
+
+with open('data/eng_to_daide_clean.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
     for entry in data:
         msg = entry['msg']
         daide = entry['daide']
+        translation = entry['translation']
         
-        if not validate(daide):
-            print(msg)
+        if validate(translation):
+            valid += 1
+        total += 1
 
     f.close()
+
+print(f'Valid: {valid}/{total} ({valid/total*100:.2f}%)')
