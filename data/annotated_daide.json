@@ -29,43 +29,43 @@
     },
     {
         "msg": "I submitted orders to disband my southern fleet",
-        "daide": "(RUS FLT BLA) REM"
+        "daide": "PRP (XDO ((RUS FLT BLA) REM))"
     },
     {
         "msg": "Cool. I’m building F Smy and A Con.  Will get you detailed plans after we see the builds.  Good luck fixing democracy ;p",
-        "daide": "AND (XDO ((TUR FLT SMY) BLD)) (XDO ((TUR AMY CON) BLD))"
+        "daide": "PRP (AND (XDO ((TUR FLT SMY) BLD)) (XDO ((TUR AMY CON) BLD)))"
     },
     {
         "msg": "Moved to Lvn to be safe",
-        "daide": "(RUS AMY WAR) MTO LVN"
+        "daide": "PRP (XDO ((RUS AMY WAR) MTO LVN))"
     },
     {
         "msg": "A Lvn - Pru A Sev - Ukr F Stp/nc- BAR  F Swe H A War - Gal",
-        "daide": "AND (XDO ((RUS AMY LVN) MTO PRU)) (XDO ((RUS AMY SEV) MTO UKR)) (XDO ((RUS FLT (STP NCS)) MTO BAR)) (XDO ((RUS FLT SWE) HLD)) (XDO ((RUS AMY WAR) MTO GAL))"
+        "daide": "PRP (AND (XDO ((RUS AMY LVN) MTO PRU)) (XDO ((RUS AMY SEV) MTO UKR)) (XDO ((RUS FLT (STP NCS)) MTO BAR)) (XDO ((RUS FLT SWE) HLD)) (XDO ((RUS AMY WAR) MTO GAL)))"
     },
     {
         "msg": "F BAR H A Gal - Vie A Pru - Ber F Swe - Den A Ukr - War",
-        "daide": "AND (XDO ((RUS FLT BAR) HLD)) (XDO ((RUS AMY GAL) MTO VIE)) (XDO ((RUS AMY PRU) MTO BER)) (XDO ((RUS FLT SWE) MTO DEN)) (XDO ((RUS AMY UKR) MTO WAR))"
+        "daide": "PRP (AND (XDO ((RUS FLT BAR) HLD)) (XDO ((RUS AMY GAL) MTO VIE)) (XDO ((RUS AMY PRU) MTO BER)) (XDO ((RUS FLT SWE) MTO DEN)) (XDO ((RUS AMY UKR) MTO WAR)))"
     },
     {
         "msg": "I’m thinking F Stp sc, A War, A Mos",
-        "daide": "AND (XDO ((RUS FLT (STP SCS)) BLD)) (XDO ((RUS AMY WAR) BLD)) (XDO((RUS AMY MOS) BLD))"
+        "daide": "PRP (AND (XDO ((RUS FLT (STP SCS)) BLD)) (XDO ((RUS AMY WAR) BLD)) (XDO((RUS AMY MOS) BLD)))"
     },
     {
         "msg": "Here’s my current orders:      A Ber - Kie A Gal - Boh A Mos - War F Nwy S Swe F Stp/sc - BOT F Swe S Nwy A Vie - Tyr A War - Sil",
-        "daide": "AND (XDO ((RUS AMY BER) MTO KIE)) (XDO ((RUS AMY GAL) MTO BOH)) (XDO ((RUS AMY MOS) MTO WAR)) (XDO ((RUS FLT NWY) SUP (RUS FLT SWE))) (XDO ((RUS FLT (STP SCS)) MTO GOB)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) MTO TYR)) (XDO ((RUS AMY WAR) MTO SIL))"
+        "daide": "PRP (AND (XDO ((RUS AMY BER) MTO KIE)) (XDO ((RUS AMY GAL) MTO BOH)) (XDO ((RUS AMY MOS) MTO WAR)) (XDO ((RUS FLT NWY) SUP (RUS FLT SWE))) (XDO ((RUS FLT (STP SCS)) MTO GOB)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) MTO TYR)) (XDO ((RUS AMY WAR) MTO SIL)))"
     },
     {
         "msg": "A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy H A Sil - Mun F Swe S Nwy A Vie H A War - Sil",
-        "daide": "AND (XDO ((RUS AMY BER) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) HLD)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) HLD)) (XDO ((RUS AMY WAR) MTO SIL))"
+        "daide": "PRP (AND (XDO ((RUS AMY BER) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) HLD)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) SUP (RUS FLT NWY))) (XDO ((RUS AMY VIE) HLD)) (XDO ((RUS AMY WAR) MTO SIL)))"
     },
     {
         "msg": "I think you need to stop the Nwg-Bar move, by doing Nwy-Bar.  At the same time, we need to just give you Tri so you can build another northern fleet.  We can give it back to me next year and if necessary you just disband a rearguard army to make up for it if you’re not picking up another build somewhere else.",
-        "daide": "AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI))"
+        "daide": "PRP (AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI))"
     },
     {
         "msg": "A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy - BAR A Sil - Mun F Swe - Nwy A Vie - Tri A War - Pru",
-        "daide": "AND (XDO ((RUS AMY BER) SUP (RUS FLT SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) MTO BAR)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) MTO NWY)) (XDO ((RUS AMY VIE) MTO TRI)) (XDO ((RUS AMY WAR) MTO PRU))"
+        "daide": "PRP (AND (XDO ((RUS AMY BER) SUP (RUS FLT SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) MTO BAR)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) MTO NWY)) (XDO ((RUS AMY VIE) MTO TRI)) (XDO ((RUS AMY WAR) MTO PRU)))"
     },
     {
         "msg": "What if I just move A Tri - Vie?",
@@ -81,15 +81,15 @@
     },
     {
         "msg": "Then we can overrun France in no time. And at this point if I’d rather it end in a 3 way victory than a 5 way",
-        "daide": "ALY (RUS TUR) VSS (FRA)"
+        "daide": "PRP (ALY (RUS TUR) VSS (FRA))"
     },
     {
         "msg": "Working with France right now will take some pressure of me in the short term and help me put England to bed for good",
-        "daide": "ALY (RUS TUR FRA) VSS (ENG)"
+        "daide": "PRP (ALY (RUS TUR FRA) VSS (ENG))"
     },
     {
         "msg": "I updated Sil - Ber",
-        "daide": "(RUS AMY SIL) MTO BER"
+        "daide": "PRP (XDO (RUS AMY SIL) MTO BER))"
     },
     {
         "msg": "Makes sense. Aside from me and turkey you’re clearly the strongest and it works for me to work with you so I can just focus on England",
@@ -97,15 +97,15 @@
     },
     {
         "msg": "I'm guessing Turkey imposed DMZs on Vie/Bud etc?",
-        "daide": "DMZ (TUR) (VIE BUD)"
+        "daide": "PRP (DMZ (TUR) (VIE BUD))"
     },
     {
         "msg": "Mostly we had a common interest in taking out Austria",
-        "daide": "ALY (RUS TUR) VSS (AUS)"
+        "daide": "PRP (ALY (RUS TUR) VSS (AUS))"
     },
     {
         "msg": "If I remember correctly we were just starting to work together against england lol",
-        "daide": "ALY (RUS FRA) VSS (ENG)"
+        "daide": "PRP (ALY (RUS FRA) VSS (ENG))"
     },
     {
         "msg": "We can talk about how to divid it up. We definitely should make sure we both get builds. we’re good to pause aggression on our front on the continent?",
@@ -121,11 +121,11 @@
     },
     {
         "msg": "A Ber - Pru A Boh - Sil A Den - Kie F HEL - NTH A Hol - Ruh A Kie - Mun A Mun - Boh F NAO - Lvp F NTH - NWG F NWG - NAO F Nwy - Stp/nc",
-        "daide": "AND (XDO ((RUS AMY BER) MTO PRU)) (XDO ((RUS AMY BOH) MTO SIL)) (XDO ((RUS AMY DEN) MTO KIE)) (XDO ((RUS FLT HEL) MTO NTH)) (XDO ((RUS AMY HOL) MTO RUH)) (XDO ((RUS AMY KIE) MTO MUN)) (XDO ((RUS AMY MUN) MTO BOH)) (XDO ((RUS FLT NAO) MTO LVP)) (XDO ((RUS FLT NTH) MTO NWG)) (XDO ((RUS FLT NWG) MTO NAO)) (XDO ((RUS FLT NWY) MTO (STP NCS)))"
+        "daide": "PRP (AND (XDO ((RUS AMY BER) MTO PRU)) (XDO ((RUS AMY BOH) MTO SIL)) (XDO ((RUS AMY DEN) MTO KIE)) (XDO ((RUS FLT HEL) MTO NTH)) (XDO ((RUS AMY HOL) MTO RUH)) (XDO ((RUS AMY KIE) MTO MUN)) (XDO ((RUS AMY MUN) MTO BOH)) (XDO ((RUS FLT NAO) MTO LVP)) (XDO ((RUS FLT NTH) MTO NWG)) (XDO ((RUS FLT NWG) MTO NAO)) (XDO ((RUS FLT NWY) MTO (STP NCS))))"
     },
     {
         "msg": "I don’t thinkwe’ll be able to push thru the line this fall. Can you move Mun to burg and then bur to gas",
-        "daide": "AND (XDO ((FRA AMY MUN) MTO BUR)) (XDO ((FRA AMY BUR) MTO GAS))"
+        "daide": "PRP (AND (XDO ((FRA AMY MUN) MTO BUR)) (XDO ((FRA AMY BUR) MTO GAS)))"
     },
     {
         "msg": "Fine with me to move Mun back",
@@ -145,7 +145,7 @@
     },
     {
         "msg": "I’ll move my army in Munich to the.",
-        "daide": "(RUS AMY MUN) MTO TYR"
+        "daide": "PRP (XDO ((RUS AMY MUN) MTO TYR))"
     },
     {
         "msg": "I mean when they were in Stp, and then they didn't try to go got Swe at all.",
@@ -153,15 +153,15 @@
     },
     {
         "msg": "So it looks like while you worked something out with Russia, to carve Germany up, you’re now reorienting against them.",
-        "daide": "ALY (ENG RUS) VSS (GER)"
+        "daide": "PRP (ALY (ENG RUS) VSS (GER))"
     },
     {
         "msg": "I'm moving in with Ruh",
-        "daide": "(FRA AMY RUH) MTO MUN"
+        "daide": "PRP (XDO (FRA AMY RUH) MTO MUN))"
     },
     {
         "msg": "Yeah Italy is ready to get pretty wrecked, unless Austria  or I decide to stop working together",
-        "daide": "ALY (TUR AUS) VSS (ITA)"
+        "daide": "PRP (ALY (TUR AUS) VSS (ITA))"
     },
     {
         "msg": "Hi Germany, I'm down with the DMZ - Have you heard back from Austria yet?",
@@ -193,11 +193,11 @@
     },
     {
         "msg": "Thanks for keeping the DMZ in Piedmont",
-        "daide": "DMZ (ITA) (PIE)"
+        "daide": "PRP (DMZ (ITA) (PIE))"
     },
     {
         "msg": "Interesting, Turkey and I are going to team up against Austria.",
-        "daide": "ALY (TUR ITA) VSS (AUS)"
+        "daide": "PRP (ALY (TUR ITA) VSS (AUS))"
     },
     {
         "msg": "We should talk about moves. I think it's vital that we work together against Turkey and so I'm hoping I might be able to help you with my fleet",
@@ -225,11 +225,11 @@
     },
     {
         "msg": "A DMZ of Prussia and the Baltic might also not hurt. And if you're up to it, maybe even a potential alliance against England?",
-        "daide": "AND (ALY (RUS GER) VSS (ENG)) (DMZ (RUS GER) (PRU BAL))"
+        "daide": "PRP (AND (ALY (RUS GER) VSS (ENG)) (DMZ (RUS GER) (PRU BAL)))"
     },
     {
         "msg": "I'm w/ Austria against turkey",
-        "daide": "ALY (RUS AUS) VSS (TUR)"
+        "daide": "PRP (ALY (RUS AUS) VSS (TUR))"
     },
     {
         "msg": "I'd like denmark, norways all yours. Perhaps we could move on Russia but I think we should start with france, otherwise he'll become a problem for us both. After that we can hash out the rest of scandanavia and Russia as it goes?",
@@ -249,7 +249,7 @@
     },
     {
         "msg": "You built a fleet in Edinburgh? Why? I'd think you'd want it in London no?",
-        "daide": "(ENG FLT EDI) BLD"
+        "daide": "PRP (XDO ((ENG FLT EDI) BLD))"
     },
     {
         "msg": "Sorry about the delay. I'm willing to exchange Belgium for cooperation against France.",
@@ -261,11 +261,11 @@
     },
     {
         "msg": "I can do that for sure, though it does mean slowing down potential convoys into England. What does this look like more broadly? Would you be willing to build a fleet in Kiel to take the North Sea? Does this mean you are letting me keep Munich so I can build a fourth fleet next turn?",
-        "daide": "AND (XDO ((GER FLT KIE) BLD)) (SCD (FRA MUN))"
+        "daide": "PRP (AND (XDO ((GER FLT KIE) BLD)) (SCD (FRA MUN)))"
     },
     {
         "msg": "I'll send Brest to English Channel and MAO to Irish Sea, but I need Belgium so that I don't go down a build.",
-        "daide": "AND (SCD (FRA BEL)) (XDO ((FRA FLT MAO) MTO IRI)) (XDO ((FRA FLT BRE) MTO ECH))"
+        "daide": "PRP (AND (SCD (FRA BEL)) (XDO ((FRA FLT MAO) MTO IRI)) (XDO ((FRA FLT BRE) MTO ECH)))"
     },
     {
         "msg": "Just disband the troop in ruhr. That would have us certainly on peaceful terms",
@@ -289,11 +289,11 @@
     },
     {
         "msg": "Alliance against turkey is still on right?",
-        "daide": "ALY (RUS AUS) VSS (TUR)"
+        "daide": "PRP (ALY (RUS AUS) VSS (TUR))"
     },
     {
         "msg": "Of course. I heard back from Italy as well and we seem to be on the same wavelength",
-        "daide": "ALY (AUS RUS) VSS (TUR)"
+        "daide": "PRP (ALY (AUS RUS) VSS (TUR))"
     },
     {
         "msg": "And before long, one of us in the east will be elliminated. I say we work together to make that someone be turkey",
@@ -301,7 +301,7 @@
     },
     {
         "msg": "If this alliance works out(and I hope it does) we will have turkey dead pretty soon🙃",
-        "daide": "ALY (RUS AUS) VSS (TUR)"
+        "daide": "PRP (ALY (RUS AUS) VSS (TUR))"
     },
     {
         "msg": "Hi Turkey! I fully agree that we should stay peaceful with eachother. How do you like the sound of you getting Greece and Bulgaria and I'll go for Romania and Serbia?",
@@ -309,11 +309,11 @@
     },
     {
         "msg": "We should talk about borders- if you can move your fleet from the Adriatic to Albania it would help you capture Greece, and I'd have no problems staying out of Tyrolia and Trieste if you are willing to do the same.",
-        "daide": "AND ((AUS FLT ADR) MTO ALB) (DMZ (FRA AUS) (TYR TRI))"
+        "daide": "PRP (AND ((AUS FLT ADR) MTO ALB) (DMZ (FRA AUS) (TYR TRI)))"
     },
     {
         "msg": "Not sure why Italy disbanded Ionian, but I figure he may have missed the deadline for builds",
-        "daide": "(ITA FLT ION) REM"
+        "daide": "PRP (XDO ((ITA FLT ION) REM))"
     },
     {
         "msg": "I guess just pull back to Venice?",
@@ -337,7 +337,7 @@
     },
     {
         "msg": "I'm moving Edi into NTH, and NTH into helgo",
-        "daide": "AND (XDO ((ENG FLT EDI) MTO NTH)) (XDO ((ENG FLT NTH) MTO HEL))"
+        "daide": "PRP (AND (XDO ((ENG FLT EDI) MTO NTH)) (XDO ((ENG FLT NTH) MTO HEL)))"
     },
     {
         "msg": "Ig u get Kiel and holland and I get Ber and Mun?",
@@ -397,11 +397,11 @@
     },
     {
         "msg": "Everything looks good right now. If you sill plan to let Russia keep Norway then I would recommend ordering North Sea-Helgoland Blight, Denmark - Kiel, and Edinburgh-North Sea. Best case scenario, you end up in Helgoland Blight, Kiel, and North Sea and can take Holland in the fall for a total of both Kiel and Holland",
-        "daide": "AND (XDO ((ENG FLT NTH) MTO HEL)) (XDO ((ENG FLT DEN) MTO KIE)) (XDO ((ENG FLT EDI) MTO NTH))"
+        "daide": "PRP (AND (XDO ((ENG FLT NTH) MTO HEL)) (XDO ((ENG FLT DEN) MTO KIE)) (XDO ((ENG FLT EDI) MTO NTH)))"
     },
     {
         "msg": "Besides, stuff like Kie or even NTH makes it look like you and Russia are only sort of on the same page.",
-        "daide": "ALY (FRA RUS) VSS (ENG)"
+        "daide": "PRP (ALY (FRA RUS) VSS (ENG))"
     },
     {
         "msg": "I *think* the way this can work out is having me take Holland and Russia take Kiel.",
@@ -441,11 +441,11 @@
     },
     {
         "msg": "👌 So I’ll open as a standard Lepanto. Sounds good.",
-        "daide": "AND (XDO ((ITA FLT NAP) MTO ION)) (XDO ((ITA AMY ROM) MTO APU)) (XDO ((ITA AMY VEN) HLD))"
+        "daide": "PRP (AND (XDO ((ITA FLT NAP) MTO ION)) (XDO ((ITA AMY ROM) MTO APU)) (XDO ((ITA AMY VEN) HLD)))"
     },
     {
         "msg": "That's exactly what I'm thinking. I'm going to send Greece into the Aegean, you send Ionian into Eastern Med.",
-        "daide": "AND (XDO ((AUS FLT GRE) MTO AEG)) (XDO ((ITA FLT ION) MTO EAS))"
+        "daide": "PRP (AND (XDO ((AUS FLT GRE) MTO AEG)) (XDO ((ITA FLT ION) MTO EAS)))"
     },
     {
         "msg": "Yep, it will be. I'll want it back eventually, but for now it's yours.",
@@ -453,7 +453,7 @@
     },
     {
         "msg": "I think probably we give France one season to see what they do. England build F LON and France built F BRE, which is something we should keep an eye on before moving.",
-        "daide": "AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD))"
+        "daide": "PRP (AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD)))"
     },
     {
         "msg": "You can have Ank, but I really do think it makes sense that I keep Greece. Ending up with 2 centers from Turkey/Balkans seems fair, with you getting everything else, yes?",
@@ -461,7 +461,7 @@
     },
     {
         "msg": "F Nap. Sound good?",
-        "daide": "(ITA FLT NAP) BLD"
+        "daide": "PRP (XDO ((ITA FLT NAP) BLD))"
     },
     {
         "msg": "Yeah, Naples makes it look like we might actually be fighting, go for it.",
@@ -477,7 +477,7 @@
     },
     {
         "msg": "I like that. I was thinking that you would move Bud back to Tri, but this is much better. It keeps forward momentum. And yes, you should take back Tri now. That will make builds easier as we move forward.",
-        "daide": "YES (SCD (AUS TRI))"
+        "daide": "YES (PRP (SCD (AUS TRI)))"
     },
     {
         "msg": "Also, actually, I don't have anything for Bulgaria to do, and you're guaranteed two dots this turn. Can I take Greece back too? I can bank a build for the future regardless of what happens, and you stay even. You don't really need a build right now.",
@@ -513,7 +513,7 @@
     },
     {
         "msg": "I absolutely did not advise G to build the F Kie.",
-        "daide": "NOT (XDO ((GER FLT KIE) BLD))"
+        "daide": "PRP (NOT (XDO ((GER FLT KIE) BLD)))"
     },
     {
         "msg": "I'm not trying to step on anyone's toes just yet, either. Specifically, I'm happy to keep Bohemia and Tyrolia de-militarized for at least a couple seasons to our mutual benefit?",
@@ -533,7 +533,7 @@
     },
     {
         "msg": "Speaking of, what are your planned builds? I'm building a fleet in London.",
-        "daide": "(ENG FLT LON) BLD"
+        "daide": "PRP (XDO ((ENG FLT LON) BLD))"
     },
     {
         "msg": "Does France think you’ll be cutting support? Also, Italy has been sending some anti-french things my way. A three-on-one alliance could be good for all of us. Containing Russia may distract both of us if he gets aggressive.",
@@ -549,15 +549,15 @@
     },
     {
         "msg": "Haha ok, glad to get the confirmation. On my end i’ll confirm I am totally anti-french until France is out of the game. I’ve actually ceased communications with France (maybe something we can all do once the stab is clear). I’d like all three of us to get our two builds each together. Then we can look east.",
-        "daide": "ALY (ENG GER ITA) VSS (FRA)"
+        "daide": "PRP (ALY (ENG GER ITA) VSS (FRA))"
     },
     {
         "msg": "Why the fleet in berlin btw?",
-        "daide": "(GER FLT BER) BLD"
+        "daide": "PRP (XDO ((GER FLT BER) BLD))"
     },
     {
         "msg": "Well I figured that I'd need at least one more eventually, and that since my whole northern border is coastal a fleet might be better for defending that. But it'll be all armies after this I think.",
-        "daide": "(GER FLT BER) BLD"
+        "daide": "PRP (XDO ((GER FLT BER) BLD))"
     },
     {
         "msg": "We can always play to a three way draw! So does this mean you would be committed to a Russia-Germany-England alliance until the others are dealt with?",
@@ -573,7 +573,7 @@
     },
     {
         "msg": "Yep, Denmark going to Nth.",
-        "daide": "(ENG FLT DEN) MTO NTH"
+        "daide": "PRP (XDO ((ENG FLT DEN) MTO NTH))"
     },
     {
         "msg": "My plan is to eventually have only fleets along my northwest coast (they're more versatile in that context) and move the armies inland.   See what you can negotiate with Italy, but no matter what they say, I'd be prepared to use your full strength to get Nao into Mao, if that's what you want to do. (And in case it's not obvious, it's what *I* think you should do)",
@@ -581,7 +581,7 @@
     },
     {
         "msg": "wait, I'm confused. What? The unit displaced from Nth. You haven't given retreat orders yet. Go to Edi?",
-        "daide": "(ENG FLT NTH) RTO EDI"
+        "daide": "PRP (XDO ((ENG FLT NTH) RTO EDI))"
     },
     {
         "msg": "So if you're willing to collaborate, I've got some ideas, and would want to hear yours as well. I genuinely think working with me against Italy will be a better long-term strategy for you than working against Italy or alone. Italy is just too strong already. And, as I've said before, I'd like to see an underdog story.",
@@ -609,11 +609,11 @@
     },
     {
         "msg": "I'm building army Sebastopol for the obvious defense - assuming you do build in Trieste, will take steps to demilitarize that border (no move to Galicia or otherwise in your direction, cooperate on Smyrna, moving units away as soon as possible)",
-        "daide": "AND (XDO ((RUS AMY SEV) BLD)) (DMZ (RUS AUS) (GAL))"
+        "daide": "PRP (AND (XDO ((RUS AMY SEV) BLD)) (DMZ (RUS AUS) (GAL)))"
     },
     {
         "msg": "So you built F LON and France built F BRE, eh? Trouble in paradise?",
-        "daide": "AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD))"
+        "daide": "PRP (AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD)))"
     },
     {
         "msg": "It's somewhat on us to contain russia. I'd rather us both put pressure on Russia than you put pressure on Italy or I put pressure on Germany.",
@@ -621,7 +621,7 @@
     },
     {
         "msg": "F Bre, eh? I'm curious what you're gonna do with that.",
-        "daide": "(FRA FLT BRE) BLD"
+        "daide": "PRP (XDO ((FRA FLT BRE) BLD))"
     },
     {
         "msg": "Maybe you can ask for Trieste back?",
@@ -629,7 +629,7 @@
     },
     {
         "msg": "My gift to you is willingly suiciding so that England and Germany have a chance to stop Italy in the West. Please don't waste it, though I won't be there to see it 🙂 .",
-        "daide": "ALY (FRA ENG GER) VSS (ITA)"
+        "daide": "PRP (ALY (FRA ENG GER) VSS (ITA))"
     },
     {
         "msg": "Take Romania I will not hinder it in any way",
@@ -645,11 +645,11 @@
     },
     {
         "msg": "Not saying you are the big winner, I'm saying that your misorder was probably a good thing. Before we get into the details of an alliance against Germany, I think it's worth noting that the AI alliance is going to absolutely roll over Russia/Turkey, and so if you take Russia's dots that are easy to take, I think it will be helping Germany/Austria/Italy more than it helps you.",
-        "daide": "ALY (AUS ITA) VSS (RUS TUR)"
+        "daide": "PRP (ALY (AUS ITA) VSS (RUS TUR))"
     },
     {
         "msg": "Ok. I don't get why you think I'd build F Brest, but at the very least I appreciate the heads up. At some point I'd like to see you make a decisive move. So far it seems like you've been trying to make moves that both Germany and I agree to.",
-        "daide": "NOT (XDO ((FRA FLT BRE) BLD))"
+        "daide": "PRP (NOT (XDO ((FRA FLT BRE) BLD)))"
     },
     {
         "msg": "The DMZ stands. I'd like confirmation from you that it stays through the end of 1903.",
@@ -657,7 +657,7 @@
     },
     {
         "msg": "Can you explain why you didn’t build it in Mar?",
-        "daide": "NOT (XDO ((FRA FLT MAR) BLD))"
+        "daide": "PRP (NOT (XDO ((FRA FLT MAR) BLD)))"
     },
     {
         "msg": "Nonaggression in piedmont",
@@ -669,27 +669,27 @@
     },
     {
         "msg": "Why no army in Berlin?  Just as close to warsaw, protects you against Russian navy fuckery",
-        "daide": "NOT (XDO ((GER AMY BER) BLD))"
+        "daide": "PRP (NOT (XDO ((GER AMY BER) BLD)))"
     },
     {
         "msg": "Or were you gonna army in Berlin also?",
-        "daide": "(GER AMY BER) BLD"
+        "daide": "PRP (XDO ((GER AMY BER) BLD))"
     },
     {
         "msg": "Yeah doing both. My Berlin army might get bogged down with that pesky ruski fleet",
-        "daide": "AND (XDO ((GER AMY BER) BLD)) (XDO ((GER AMY MUN) BLD))"
+        "daide": "PRP (AND (XDO ((GER AMY BER) BLD)) (XDO ((GER AMY MUN) BLD)))"
     },
     {
         "msg": "Can you promise it’s not going there?",
-        "daide": "(GER AMY MUN) MTO TYR"
+        "daide": "PRP (XDO ((GER AMY MUN) MTO TYR))"
     },
     {
         "msg": "Yes I can promise",
-        "daide": "NOT (XDO ((GER AMY MUN) MTO TYR))"
+        "daide": "PRP (NOT (XDO ((GER AMY MUN) MTO TYR)))"
     },
     {
         "msg": "Well me and england are only committed to taking out Austria",
-        "daide": "ALY (GER ENG) VSS (AUS)"
+        "daide": "PRP (ALY (GER ENG) VSS (AUS))"
     },
     {
         "msg": "But Tunis is a great call here and you can set yourself up to move into a good position against Turkey while also taking Tunis",
@@ -701,7 +701,7 @@
     },
     {
         "msg": "Do we have anything more we need to talk about?  I still am In on this alliamce, gonna do the lepanto",
-        "daide": "YES (ALY (ITA AUS) VSS (TUR))"
+        "daide": "PRP (YES (ALY (ITA AUS) VSS (TUR)))"
     },
     {
         "msg": "Ok- so none of my armies/navies in Venice after this build, none of yours in Trieste.  Done deal.",
@@ -713,11 +713,11 @@
     },
     {
         "msg": "But I ain’t lol",
-        "daide": "NOT (XDO ((ITA AMY VEN) BLD))"
+        "daide": "PRP (NOT (XDO ((ITA AMY VEN) BLD)))"
     },
     {
         "msg": "Heading down into the Adriatic here.  Trying to contain Turkey",
-        "daide": "(AUS FLT TRI) MTO ADR"
+        "daide": "PRP (XDO ((AUS FLT TRI) MTO ADR))"
     },
     {
         "msg": "Lol we should have deconflicted- I spent a lot of time last night trying to get england and Germany to play nice at least few the next turn.  I assume you don’t want england to help me bc you don’t want me to get too strong?",
@@ -725,11 +725,11 @@
     },
     {
         "msg": "You’re still going army Vienna yes?",
-        "daide": "(AUS AMY VIE) BLD"
+        "daide": "PRP (XDO ((AUS AMY VIE) BLD))"
     },
     {
         "msg": "Army Bud",
-        "daide": "(AUS AMY BUD) BLD"
+        "daide": "PRP (XDO ((AUS AMY BUD) BLD))"
     },
     {
         "msg": "Also also, he asked me not to give you Smyrna.  He's playing tricky and he's doing it badly",
@@ -737,11 +737,11 @@
     },
     {
         "msg": "This isn't a great look for us. Stay strong against France and Turkey. We'll have a stalemate line soon",
-        "daide": "ALY (AUS ITA) VSS (FRA TUR)"
+        "daide": "PRP (ALY (AUS ITA) VSS (FRA TUR))"
     },
     {
         "msg": "Agreed re: Germany.  Wish we’d had more time to discuss that build but it happens.",
-        "daide": "YES (ALY (ITA AUS ENG) VSS (GER))"
+        "daide": "YES (PRP (ALY (ITA AUS ENG) VSS (GER)))"
     },
     {
         "msg": "Mhmm thought we had a non aggression pact there tho",
@@ -757,7 +757,7 @@
     },
     {
         "msg": "Absolutely not.",
-        "daide": "NOT (ALY (ITA GER) VSS (ENG))"
+        "daide": "PRP (NOT (ALY (ITA GER) VSS (ENG)))"
     },
     {
         "msg": "how do we  bring him down?",
@@ -773,11 +773,11 @@
     },
     {
         "msg": "But I’m not going to do that!!!",
-        "daide": "NOT (XDO ((ITA FLT NAP) BLD))"
+        "daide": "PRP (NOT (XDO ((ITA FLT NAP) BLD)))"
     },
     {
         "msg": "Why no fleet in Ankara then?  That’s much less threatening to me",
-        "daide": "NOT (XDO ((TUR FLT ANK) BLD))"
+        "daide": "PRP (NOT (XDO ((TUR FLT ANK) BLD)))"
     },
     {
         "msg": "Build an army there, not a fleet",
@@ -785,7 +785,7 @@
     },
     {
         "msg": "I'll build an army in Smy",
-        "daide": "(TUR AMY SMY) BLD"
+        "daide": "PRP (XDO ((TUR AMY SMY) BLD))"
     },
     {
         "msg": "I think very soon you, me and england will need to band together or Germany will simply roll over all of us",
@@ -793,23 +793,23 @@
     },
     {
         "msg": "A truce for the first few turns",
-        "daide": "PCE (GER ENG FRA)"
+        "daide": "PRP (PCE (GER ENG FRA))"
     },
     {
         "msg": "Mun > Ruh would give me opportunity to be a bigger player in the west.",
-        "daide": "(GER AMY MUN) MTO RUH"
+        "daide": "PRP (XDO ((GER AMY MUN) MTO RUH))"
     },
     {
         "msg": "I’m building an army in Mun and a fleet in Kiev",
-        "daide": "AND (XDO ((GER AMY MUN) BLD)) (XDO ((GER FLT KIE) BLD))"
+        "daide": "PRP (AND (XDO ((GER AMY MUN) BLD)) (XDO ((GER FLT KIE) BLD)))"
     },
     {
         "msg": "F Tri, A Vie",
-        "daide": "AND (XDO ((AUS FLT TRI) BLD)) (XDO ((AUS AMY VIE) BLD))"
+        "daide": "PRP (AND (XDO ((AUS FLT TRI) BLD)) (XDO ((AUS AMY VIE) BLD)))"
     },
     {
         "msg": "Move SKA to North Sea?",
-        "daide": "(GER FLT SKA) MTO NTH"
+        "daide": "PRP (XDO ((GER FLT SKA) MTO NTH))"
     },
     {
         "msg": "No, Denmark",
@@ -821,7 +821,7 @@
     },
     {
         "msg": "Shit. I’m pretty screwed now. Disbanding my Prussia Army so you don’t need to worry about me. Need to beat Turkey back to stay alive.",
-        "daide": "(RUS AMY PRU) REM"
+        "daide": "PRP (XDO ((RUS AMY PRU) REM))"
     },
     {
         "msg": "You should grab Sweden.",
@@ -849,15 +849,15 @@
     },
     {
         "msg": "Basically just to be clear, I see this as a long term alliance to stop Austria. From my POV, it’s not about me or you winning ourselves but about having someone other than this top ranked player beat all of us.",
-        "daide": "ALY (GER ENG) VSS (AUS)"
+        "daide": "PRP (ALY (GER ENG) VSS (AUS))"
     },
     {
         "msg": "I should have moved London to the channel",
-        "daide": "NOT (XDO ((ENG FLT LON) MTO ECH))"
+        "daide": "PRP (NOT (XDO ((ENG FLT LON) MTO ECH)))"
     },
     {
         "msg": "Absolutely. I’m still team kill Austria (and maybe Italy)",
-        "daide": "ALY (ENG GER) VSS (AUS)"
+        "daide": "PRP (ALY (ENG GER) VSS (AUS))"
     },
     {
         "msg": "Let me know if you’re cool with me temporarily putting my fleet in ska in the North Sea to block off France. France retreating their will screw things up big time. I have it set to move there right now, but I’ll call it off immediately if you tell me to.",
@@ -873,15 +873,15 @@
     },
     {
         "msg": "And yes army in Mun and Ber",
-        "daide": "AND (XDO((GER AMY MUN) BLD)) (XDO ((GER AMY BER) BLD))"
+        "daide": "PRP (AND (XDO((GER AMY MUN) BLD)) (XDO ((GER AMY BER) BLD)))"
     },
     {
         "msg": "I’ll move there in the spring",
-        "daide": "(ENG AMY MOS) MTO UKR"
+        "daide": "PRP (XDO ((ENG AMY MOS) MTO UKR))"
     },
     {
         "msg": "Good shit man. I’m moving Burg to Mun and War to Ukraine",
-        "daide": "AND (XDO ((GER AMY BUR) MTO MUN)) (XDO ((GER AMY WAR) MTO UKR))"
+        "daide": "PRP (AND (XDO ((GER AMY BUR) MTO MUN)) (XDO ((GER AMY WAR) MTO UKR)))"
     },
     {
         "msg": "Any chance you’d give up Paris? I don’t see where my sc is coming from and I need a build for our parity.",
@@ -889,15 +889,15 @@
     },
     {
         "msg": "Why did the army in Pru halt?",
-        "daide": "(RUS AMY PRU) REM"
+        "daide": "PRP (XDO ((RUS AMY PRU) REM))"
     },
     {
         "msg": "France I think. The A spa -Mar got stopped",
-        "daide": "NOT (XDO ((FRA AMY SPA) MTO MAR))"
+        "daide": "PRP (NOT (XDO ((FRA AMY SPA) MTO MAR)))"
     },
     {
         "msg": "Not entirely. He did not move F Nap - Ion",
-        "daide": "NOT (XDO ((ITA FLT NAP) MTO ION))"
+        "daide": "PRP (NOT (XDO ((ITA FLT NAP) MTO ION)))"
     },
     {
         "msg": "What if we all just ganged up. Even if I lose knowing I helped beat the best player in the world would be dope lol",
@@ -913,7 +913,7 @@
     },
     {
         "msg": "I’ve set my order to Mun -> Burg",
-        "daide": "(GER AMY MUN) MTO BUR"
+        "daide": "PRP (XDO ((GER AMY MUN) MTO BUR))"
     },
     {
         "msg": "If they do that, we desperately need to be strongly allied with the Austrians, otherwise they'll roll us over, hard.",
@@ -925,7 +925,7 @@
     },
     {
         "msg": "So I plan to do F Alb S F Ven - Tri, A Apu - Ven",
-        "daide": "AND (XDO ((ITA FLT ALB) SUP (ITA FLT VEN) MTO TRI)) (XDO ((ITA AMY APU) MTO VEN))"
+        "daide": "PRP (AND (XDO ((ITA FLT ALB) SUP (ITA FLT VEN) MTO TRI)) (XDO ((ITA AMY APU) MTO VEN)))"
     },
     {
         "msg": "Odds of succeeding in this improve dramatically if also support with A Tyr S A Apu - Ven - would you be willing to do so?",
@@ -937,7 +937,7 @@
     },
     {
         "msg": "Would like to get your thoughts on your other moves? Is A Budapest going to Serbia, and is A Vienna going to Galicia or allowing Russia in?",
-        "daide": "AND (XDO ((AUS AMY BUD) MTO SER)) (XDO ((AUS AMY VIE) MTO GAL))"
+        "daide": "PRP (AND (XDO ((AUS AMY BUD) MTO SER)) (XDO ((AUS AMY VIE) MTO GAL)))"
     },
     {
         "msg": "I 100% do not want to fight you. I agree that Austria Italy is a war that often happens but never really works out for either side. We would just stagnate until russia or turkey or both took us out.",
@@ -949,7 +949,7 @@
     },
     {
         "msg": "With the build in Marseilles, France's goals are quite transparent",
-        "daide": "(FRA FLT MAR) BLD"
+        "daide": "PRP (XDO ((FRA FLT MAR) BLD))"
     },
     {
         "msg": "I can still support A Serbia - Buglaria as well, if that helps",
@@ -957,7 +957,7 @@
     },
     {
         "msg": "England seems to be a bit pessimistic, which is probably justified facing a France-Germany coalition",
-        "daide": "ALY (FRA GER) VSS (ENG)"
+        "daide": "PRP (ALY (FRA GER) VSS (ENG))"
     },
     {
         "msg": "Yes a cease fire sounds perfect, I need to handle Turkey.",
@@ -965,11 +965,11 @@
     },
     {
         "msg": "Well considering the opening, I’d say I’m anti France. I will be working with Germany against France. Pressure in piedmont and Med would be appreciated. You’re bound to pick up a few dots if Germany and I work well against France.",
-        "daide": "ALY (ENG GER) VSS (FRA)"
+        "daide": "PRP (ALY (ENG GER) VSS (FRA))"
     },
     {
         "msg": "I'm pretty mad at France as well after they built a fleet in Marseilles",
-        "daide": "(FRA FLT MAR) BLD"
+        "daide": "PRP (XDO ((FRA FLT MAR) BLD))"
     },
     {
         "msg": "For what it's worth, I will build a fleet in Rome as you had requested - as it is necessary to cover France",
@@ -985,15 +985,15 @@
     },
     {
         "msg": "I’m gonna roll the dice and build A Con.",
-        "daide": "(TUR AMY CON) BLD"
+        "daide": "PRP (XDO ((TUR AMY CON) BLD))"
     },
     {
         "msg": "Well, I see you got cold feet regarding the A Con build",
-        "daide": "NOT (XDO ((TUR AMY CON) BLD))"
+        "daide": "PRP (NOT (XDO ((TUR AMY CON) BLD)))"
     },
     {
         "msg": "A Ven S F Alb - Tri A ION C A Nap - Alb would be the fastest way to ramp up the pressure on Austria",
-        "daide": "AND (XDO ((ITA AMY VEN) SUP (ITA FLT ALB) MTO TRI)) (XDO ((ITA FLT ION) CVY (ITA AMY NAP) CTO ALB))"
+        "daide": "PRP (AND (XDO ((ITA AMY VEN) SUP (ITA FLT ALB) MTO TRI)) (XDO ((ITA FLT ION) CVY (ITA AMY NAP) CTO ALB)))"
     },
     {
         "msg": "Let's try to coordinate with France and Austria to prevent a German victory, but might be a lost cause at this point",
@@ -1005,7 +1005,7 @@
     },
     {
         "msg": "Makes sense with Greece, is Aegean going to the Ionian then?",
-        "daide": "(TUR FLT AEG) MTO ION"
+        "daide": "PRP (XDO ((TUR FLT AEG) MTO ION))"
     },
     {
         "msg": "no.  no need.",
@@ -1017,7 +1017,7 @@
     },
     {
         "msg": "What's with the fleet build in Marseilles?",
-        "daide": "(FRA FLT MAR) BLD"
+        "daide": "PRP (XDO ((FRA FLT MAR) BLD))"
     },
     {
         "msg": "We would mutually benefit from a de-escalation",
@@ -1033,7 +1033,7 @@
     },
     {
         "msg": "Lol especially with that fleet build",
-        "daide": "(TUR FLT SMY) BLD"
+        "daide": "PRP (XDO ((TUR FLT SMY) BLD))"
     },
     {
         "msg": "I was really hoping to secure Warsaw for myself, truth be told, unless you intend to stay friends with the Turks once Russia's finished off, but then again I'm not under any specific threat so I suppose you can have it.",
@@ -1045,11 +1045,11 @@
     },
     {
         "msg": "What is your stance on me taking War",
-        "daide": "YES (SCD (AUS WAR))"
+        "daide": "YES (PRP (SCD (AUS WAR)))"
     },
     {
         "msg": "I would certainly prefer having Warsaw myself, and eventually I would prefer to get it from you, but if you think that it'd be better for you to have it I will support that.",
-        "daide": "YES (SCD (AUS WAR))"
+        "daide": "YES (PRP (SCD (AUS WAR)))"
     },
     {
         "msg": "Think it's safe to double down with the Italians to crush them now.",
@@ -1069,7 +1069,7 @@
     },
     {
         "msg": "I hope we can work together against France. I can make a great ally.",
-        "daide": "ALY (ENG GER) VSS (FRA)"
+        "daide": "PRP (ALY (ENG GER) VSS (FRA))"
     },
     {
         "msg": "Hey Germany. \"Natural suited antagonists\"? I beg to differ. I personally think that over here in the west, a France/Germany alliance is the strongest, preferably taking out England ASAP. What do you think?",
@@ -1077,15 +1077,15 @@
     },
     {
         "msg": "So you're headed to Belgium now from the Channel, yes?",
-        "daide": "(FRA FLT ECH) MTO BEL"
+        "daide": "PRP (XDO ((FRA FLT ECH) MTO BEL))"
     },
     {
         "msg": "Yes, it's fine. Sooo, ig the game is in grace period, so I was wondering what you builds were looking like. I will build a fleet in Bre and if you build a fleet in Kiel, the 4 combined fleets should be more than enough to take out britain, and we shouldn't have to build anything else in that regard.",
-        "daide": "AND (XDO ((FRA FLT BRE) BLD)) (XDO ((GER FLT KIE) BLD))"
+        "daide": "PRP (AND (XDO ((FRA FLT BRE) BLD)) (XDO ((GER FLT KIE) BLD)))"
     },
     {
         "msg": "I'll be building in Munich, just so I don't catch you by surprise with that. Want to be able to move in as fast as possible on the Austrians when we go for it.",
-        "daide": "(GER AMY MUN) BLD"
+        "daide": "PRP (XDO ((GER AMY MUN) BLD))"
     },
     {
         "msg": "Would you be ok with me building army in paris? I would send it over to the south east prob",
@@ -1101,7 +1101,7 @@
     },
     {
         "msg": "Yes",
-        "daide": "(AUS AMY SER) MTO RUM"
+        "daide": "PRP (XDO ((AUS AMY SER) MTO RUM))"
     },
     {
         "msg": "I think it would be better for you to take Rumania than I.  And my gut tells me that your neigbors are looking to gang up on you.  That's not good for me, since I'm still stuck in this corner. 😦",
@@ -1129,7 +1129,7 @@
     },
     {
         "msg": "I’ll move Ser in",
-        "daide": "(AUS AMY SER) MTO RUM"
+        "daide": "PRP (XDO ((AUS AMY SER) MTO RUM))"
     },
     {
         "msg": "Okay I’m reading your proposal again and are you saying you would get all of russia?",
@@ -1141,7 +1141,7 @@
     },
     {
         "msg": "Bud",
-        "daide": "(AUS AMY SER) MTO BUD"
+        "daide": "PRP (XDO ((AUS AMY SER) MTO BUD))"
     },
     {
         "msg": "I’d like for you to take Sev, it we need russia to lose more units so that we can finish him before germany is too strong.",
@@ -1153,7 +1153,7 @@
     },
     {
         "msg": "Gal is going in",
-        "daide": "(AUS AMY GAL) MTO MOS"
+        "daide": "PRP (XDO ((AUS AMY GAL) MTO MOS))"
     },
     {
         "msg": "You can take Sev",
@@ -1169,7 +1169,7 @@
     },
     {
         "msg": "Looks like you and germany are allied? Good luck versus england",
-        "daide": "ALY (FRA GER) VSS (ENG)"
+        "daide": "PRP (ALY (FRA GER) VSS (ENG))"
     },
     {
         "msg": "Thanks. I would like you to re-consider my proposal. You have become a very powerful country, and if you decide to turn on Italy, there is nothing they can do between the two of us. Right now Turkey and Russia are standing each other off, and there is no immediate threat from either of them for you. Italy will be easy supply centers. I would of course support you into their territory, provided you return the favor. We could work out more details if your interested",
@@ -1185,7 +1185,7 @@
     },
     {
         "msg": "it seems germany and France are teaming up against me.",
-        "daide": "ALY (GER FRA) VSS (ENG)"
+        "daide": "PRP (ALY (GER FRA) VSS (ENG))"
     },
     {
         "msg": "Do you think we can work together against Germany?",
@@ -1221,15 +1221,15 @@
     },
     {
         "msg": "the Italian fleet in Venice",
-        "daide": "ITA FLT VEN"
+        "daide": "PRP (XDO (ITA FLT VEN))"
     },
     {
         "msg": "Move the French fleet on the north coast of Spain to the Mid-Atlantic Ocean.",
-        "daide": "(FRA FLT (SPA NCS)) MTO MAO"
+        "daide": "PRP (XDO ((FRA FLT (SPA NCS)) MTO MAO))"
     },
     {
         "msg": "Build a Russian army in Moscow.",
-        "daide": "(RUS AMY MOS) BLD"
+        "daide": "PRP (XDO ((RUS AMY MOS) BLD))"
     },
     {
         "msg": "We propose peace between England, France and Germany.",
@@ -1241,11 +1241,11 @@
     },
     {
         "msg": "Retreat the Italian army from Greece to Albania.",
-        "daide": "(ITA AMY GRE) RTO ALB"
+        "daide": "PRP (XDO ((ITA AMY GRE) RTO ALB))"
     },
     {
         "msg": "Let the French fleet in the English Channel support the French army in Belgium.",
-        "daide": "(FRA FLT ECH) SUP (FRA AMY BEL)"
+        "daide": "PRP (XDO ((FRA FLT ECH) SUP (FRA AMY BEL)))"
     },
     {
         "msg": "Hi germany! Are you up for Sil as a DMZ? It would be in both of our best interests if we didn't get in a fight early on, as both of our great powers already have a lot to deal with on our sides of the map. Looking forwards to a great game!",
