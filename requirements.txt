@@ -1,3 +1,8 @@
 python-dotenv
 openai
 git+https://github.com/SHADE-AI/daidepp.git
+# for rouge score at https://github.com/google-research/google-research/tree/master/rouge
+absl-py
+nltk
+numpy
+six>=1.14
